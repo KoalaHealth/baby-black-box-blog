@@ -1,0 +1,3 @@
+[submodule "src/themes/eureka"]
+  path = src/themes/eureka
+  url = https://github.com/wangchucheng/hugo-eureka.git

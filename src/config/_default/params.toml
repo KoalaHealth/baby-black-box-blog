@@ -1,0 +1,45 @@
+mainSections = ["posts"]
+description = "Baby Black Box is a blog where I share my personal learnings as a first-time father, stumbling through the lifelong journey."
+
+repoURL = ""
+# If it is a Github repo, leave blank
+repoEditURL = ""
+
+dateFormat = ""
+
+titleSeparator = ""
+
+# Options: auto, light and dark. Default is auto.
+colorScheme = "auto"
+
+# E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+siteType = "Blog"
+icon = "images/m.png"
+publisherName = "Koala Health"
+publisherLogo = ""
+
+[hero]
+  slogan = "Baby Black Box contains important knowledge parents don't likes to share or discuss for a variety of reasons.  All of this is intended for my friends, but if you find it useful, here are the secrets."
+  # Specify the image name in `assets/images/` folder.
+  imgLeft = "images/hero-left.jpg"
+  imgRight = "images/hero-right.jpg"
+
+[math]
+  handler = "katex"
+
+  # [math.katex]
+  #   # Browse https://katex.org/docs/options.html to see the options available.
+  #   # KaTeX's Auto-render ignores `displayMode` property of the options, so this property will not work.
+  #   # You can list the key and value you want as below.
+  #   leqno = ""
+
+[comment]
+  # Options: disqus and commento.
+  platform = ""
+
+  [comment.disqus]
+    shortname = ""
+
+  [comment.commento]
+    # If self-hosting, please enter the url (e.g. https://commento.example.com) here. Otherwise leave empty. 
+    url = ""
