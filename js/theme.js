@@ -1,7 +1,7 @@
  // alertbar later
     $(document).scroll(function () {
         var y = $(this).scrollTop();
-        if (y > 320) {
+        if (y > 280) {
             $('.alertbar').fadeIn();
         } else {
             $('.alertbar').fadeOut();
@@ -12,7 +12,7 @@
 // Hide Header on on scroll down
     var didScroll;
     var lastScrollTop = 0;
-    var delta = 5;
+    var delta = 15;
     var navbarHeight = $('nav').outerHeight();
 
     $(window).scroll(function(event){
