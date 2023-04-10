@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-10T00:49:56-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Baby Black Box</title><subtitle>Baby Black Box is an honest blog for first-time and veteran parents.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-09-30T00:00:00-07:00</published><updated>2022-09-30T00:00:00-07:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll/"><![CDATA[<p><a href="https://www.youtube.com/watch?v=E5ulV3jHHwI">Breastfeeding Your Newborn | Kaiser Permanente</a></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-10T01:35:55-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Baby Black Box</title><subtitle>Baby Black Box is an honest blog for first-time and veteran parents.</subtitle><entry><title type="html">Welcome to Baby Black Box!</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Welcome to Baby Black Box!" /><published>2022-09-30T00:00:00-07:00</published><updated>2022-09-30T00:00:00-07:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/"><![CDATA[<p><a href="https://www.youtube.com/watch?v=E5ulV3jHHwI">Breastfeeding Your Newborn | Kaiser Permanente</a></p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Flight Recorder</name></author><category term="new parent" /><category term="first time parent" /><category term="parent" /><summary type="html"><![CDATA[Breastfeeding Your Newborn | Kaiser Permanente]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/demo1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/demo1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">One-Bowl Classic Waffles</title><link href="http://localhost:4000/classic-waffles/" rel="alternate" type="text/html" title="One-Bowl Classic Waffles" /><published>2022-01-18T00:00:00-08:00</published><updated>2022-01-18T00:00:00-08:00</updated><id>http://localhost:4000/classic-waffles</id><content type="html" xml:base="http://localhost:4000/classic-waffles/"><![CDATA[<h3 id="ingredients">Ingredients</h3>
+<p>Parenting is hard.  Sharing personal insights is scary.  Baby Black Box is a place where real parents share and record their experiences as they happen “mid-flight” in the journey of parenthood!</p>]]></content><author><name>Flight Recorder</name></author><category term="new parent" /><category term="first time parent" /><category term="parent" /><summary type="html"><![CDATA[Parenting is hard. Sharing is scary. Baby Black Box is where real parents record their stories as they happen "mid-flight" parenthood.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/baby-black-box-logo.png" /><media:content medium="image" url="http://localhost:4000/assets/images/baby-black-box-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">One-Bowl Classic Waffles</title><link href="http://localhost:4000/classic-waffles/" rel="alternate" type="text/html" title="One-Bowl Classic Waffles" /><published>2022-01-18T00:00:00-08:00</published><updated>2022-01-18T00:00:00-08:00</updated><id>http://localhost:4000/classic-waffles</id><content type="html" xml:base="http://localhost:4000/classic-waffles/"><![CDATA[<h3 id="ingredients">Ingredients</h3>
 
 <ul>
   <li>1 1/2 cups warm milk</li>
@@ -34,14 +28,86 @@
 <p>Slowly add and mix 2 cups of all-purpose flour as you mix.</p>
 
 <h4 id="personal-preference">Personal Preference</h4>
-<p>We like to cook the waffles on setting 2, which cooks the waffles before it becomes crunchy.  Re-heats well for the kids, without seeming too dry.</p>]]></content><author><name>jane</name></author><category term="recipe" /><category term="sticky" /><category term="featured" /><summary type="html"><![CDATA[Quick and easy waffles to make and cleanup.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/waffle.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/waffle.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Could we reinvent the charm</title><link href="http://localhost:4000/charm/" rel="alternate" type="text/html" title="Could we reinvent the charm" /><published>2020-09-09T00:00:00-07:00</published><updated>2020-09-09T00:00:00-07:00</updated><id>http://localhost:4000/charm</id><content type="html" xml:base="http://localhost:4000/charm/"><![CDATA[<p>Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.</p>
+<p>We like to cook the waffles on setting 2, which cooks the waffles before it becomes crunchy.  Re-heats well for the kids, without seeming too dry.</p>]]></content><author><name>jane</name></author><category term="recipe" /><category term="sticky" /><category term="featured" /><summary type="html"><![CDATA[Quick and easy waffles to make and cleanup.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/waffle.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/waffle.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Going from One to Two</title><link href="http://localhost:4000/going-from-one-to-two/" rel="alternate" type="text/html" title="Going from One to Two" /><published>2021-09-30T00:00:00-07:00</published><updated>2021-09-30T00:00:00-07:00</updated><id>http://localhost:4000/going-from-one-to-two</id><content type="html" xml:base="http://localhost:4000/going-from-one-to-two/"><![CDATA[<p>How I prepared my oldest for the arrival of our new baby. I found the key to our success was start as early as possible. I started some of these steps as it became age appropriate, knowing we wanted two under two.</p>
 
-<h4 id="early-18th-century-woodcut-of-bucharest">Early 18th century woodcut of Bucharest</h4>
+<p>1) Encouraging independent play
+2) Teaching words and context
+3) Promoting helpful behavior
+4) Refreshing toys to keep her playing
+5) Link “giving behavior” with new sibling
+6) Newborn prep
+7) Consistent 1-on-1 time
+8) Encourage independence
+9) Read together</p>
 
-<p>The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]</p>
+<p>1st: I made a very strong effort to encourage independent play multiple times a day, everyday. Especially days and times my husband and I were both home. 
+2nd: I would ask her “where is mama’s baby?” so she could at least hear the word “baby” in reference to something other than her. 
+I stopped referring to her as a baby and would correct others in front of her. I would say big girl or toddler. So she would differentiate that she is bigger than the baby. 
+3rd: I would get her involved in diaper changing, because she would already tell me when she was dirty. So, now I would say, “can you bring me the diaper, wipes etc.?”
+4th: I removed all the baby toys and packed them away. I did not bring them back out until the baby was a few weeks old. 
+5th: I had a small “quiet” toy that the baby could give Mary when they met. 
+6th: I brought out the baby clothes and other newborn items from the closet early, making room for the baby in our life when I was 7-8 months along. This gave our oldest time to adjust to all the new things before the baby arrived. This includes moving the care seat over if the oldest is still in the middle of the car. 
+7th: Have time for special 1 on 1 time with the oldest with each parent. I focused on things we  could continue after the new baby arrives.
+8th: Encourage independence in whatever way you can. Whether it’s asking the oldest to put on their own shoes, get their own jacket, pick out their own clothes, or get their water, it saves you a little bit of time and energy. To make it easier, put their bottles/cups on the counter and whatever other pre-prep you need. 
+9th: reading reading reading. We love reading and this is something you can do postpartum. It is also something that can help calm the child down. We can create a game out of finding specific books. We also use going to the library as a day trip. That gets the kids out and can keep the readings fresh.</p>]]></content><author><name>jane</name></author><category term="parent" /><category term="featured" /><summary type="html"><![CDATA[How two is different than one.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/7.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/7.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tips &amp;amp; Tricks of Welcoming a Baby on a Budget</title><link href="http://localhost:4000/new-baby-tips-and-tricks/" rel="alternate" type="text/html" title="Tips &amp;amp; Tricks of Welcoming a Baby on a Budget" /><published>2020-11-23T00:00:00-08:00</published><updated>2020-11-23T00:00:00-08:00</updated><id>http://localhost:4000/new-baby-tips-and-tricks</id><content type="html" xml:base="http://localhost:4000/new-baby-tips-and-tricks/"><![CDATA[<p>Congratulations! on your bundle of joy!</p>
 
-<p>The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.</p>
+<p>As we started planning on extending our family I combed the internet. I read tons of mom blogs and watched hundreds of hours of vlogs. To me, it all boiled down to everyone’s budget, space, ideas and values are different. You will want to spend money on some things and you will be open to accepting certain things second hand.</p>
 
-<p>Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).</p>
+<p>This was our journey:</p>
 
-<p>Partly destroyed by natural disasters and rebuilt several times during the following 200 years, and hit by Caragea’s plague in 1813–14, the city was wrested from Ottoman control and occupied at several intervals by the Habsburg Monarchy (1716, 1737, 1789) and Imperial Russia (three times between 1768 and 1806). It was placed under Russian administration between 1828 and the Crimean War, with an interlude during the Bucharest-centred 1848 Wallachian revolution. Later, an Austrian garrison took possession after the Russian departure (remaining in the city until March 1857). On 23 March 1847, a fire consumed about 2,000 buildings, destroying a third of the city.</p>]]></content><author><name>jane</name></author><category term="parent" /><summary type="html"><![CDATA[Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/home.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/home.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>We joined the Facebook Buy Nothing group and Nextdoor for our local area. These sites gave us access to free/ cheap second hand items.</p>
+
+<p>As my husband and I were both working very demanding full time jobs and we knew we had a tight budget, we made a list of everything we needed/ wanted. This allowed both of us to look and respond to posts without having to text or call the other.</p>
+
+<p>What we sourced:</p>
+<ul>
+  <li>Clothes 0-3 and 3-6 months</li>
+  <li>Pack and play</li>
+  <li>Bouncers</li>
+  <li>Walker</li>
+  <li>Swings (two different kids)</li>
+  <li>Breast pumps and parts</li>
+</ul>
+
+<p>My husband is way more tech savvy and loves to search through sites. So we were able to successfully source the entire list above as well as:</p>
+<ul>
+  <li>a changing table with silicone change pad</li>
+  <li>diaper bag</li>
+  <li>new elephant basket with new baby toys</li>
+  <li>baby blankets</li>
+</ul>
+
+<p>It takes time so start early!</p>
+
+<p>These site will continue to help you parent on a budget as your child/ children grow.</p>]]></content><author><name>jane</name></author><category term="parent" /><category term="tips &amp; tricks" /><summary type="html"><![CDATA[Congratulations! on your bundle of joy!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/12.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/12.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Traditional Crib vs Pack and Play</title><link href="http://localhost:4000/crib-vs-pack-and-play/" rel="alternate" type="text/html" title="Traditional Crib vs Pack and Play" /><published>2020-05-22T00:00:00-07:00</published><updated>2020-05-22T00:00:00-07:00</updated><id>http://localhost:4000/crib-vs-pack-and-play</id><content type="html" xml:base="http://localhost:4000/crib-vs-pack-and-play/"><![CDATA[<p>Let me tell you why my family chose a pack and play instead of a traditional crib and bassinet. After tons of reading, researching, and reading some more, our reasons can be boiled down to: money, functionality, and space.</p>
+
+<p>First, let’s start with money. Pack and plays are significantly cheaper. The below breakdown shows on average you will save $200 by using a pack and play instead of a traditional crib. 
+A traditional crib/ bassinet:</p>
+<ul>
+  <li>Crib - $200</li>
+  <li>Mattress- $90</li>
+  <li>Crib sheets -$10</li>
+  <li>Bassinet- $100</li>
+  <li>Bassinet sheets- $20 
+<strong>Total: $320</strong></li>
+</ul>
+
+<p>Pack and play with a bassinet attachment:</p>
+<ul>
+  <li>Pack and play-  $80</li>
+  <li>Mattress -$30</li>
+  <li>Sheets - $10
+<strong>Total: $120</strong></li>
+</ul>
+
+<p>Second, I looked at functionality. A bassinet can only be used until your child rolls over (3-6 month milestone) or reaches a specific weight, typically 15+ pounds. The American Association of Pediatrics recommends sharing a room with your child until they reach 6 months. So, you will likely need to transition your child from the bassinet to the crib before the six month mark. This means you will need to make room for a crib in your room or make room for a bed in your child’s nursery.  A pack and play is designed to be folded up and moved with ease. So, you can move it once your child is 6 months, and it will only take a few minutes with no tools other than your hands.</p>
+
+<p>Finally, having extra space is always a plus. My family lives in a one bedroom apartment. So, having one item for all sleep stages is perfect for us. We also plan to have additional kids so we won’t need to store bulky baby items between each child.</p>
+
+<p>Important notes:
+We were able to source a pack and play with a bassinet attachment from Nextdoor for free.  This is when we discovered we didn’t need a crib!  But, if we purchased one, we would have bought the full size pack and play with bassinet attachments $80 on Amazon</p>
+
+<p>Quick and easy purchase guide: 
+Pack and play 
+mattress 
+sheets</p>]]></content><author><name>jane</name></author><category term="parent" /><summary type="html"><![CDATA[Let me tell you why my family chose a pack and play instead of a traditional crib and bassinet. After tons of reading, researching, and reading some more, our reasons can be boiled down to: money, functionality, and space.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/avatar.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/avatar.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
