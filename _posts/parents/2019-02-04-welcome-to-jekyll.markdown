@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-categories: [ Jekyll ]
+categories: [ "new parent", "first time parent", "parent" ]
 image: assets/images/demo1.jpg
+published: true
+date: 2022-09-30
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+<a href="https://www.youtube.com/watch?v=E5ulV3jHHwI">Breastfeeding Your Newborn | Kaiser Permanente</a>
 
 {% highlight ruby %}
 def print_hi(name)

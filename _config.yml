@@ -4,6 +4,7 @@ description: 'Baby Black Box is an honest blog for first-time and veteran parent
 logo: 'assets/images/baby-black-box-logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
+url: 'https://www.babyblackbox.com'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -20,20 +21,20 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      name:           Flight Recorder
+      site:           
+      avatar:         assets/images/avatar.jpg
       bio:            "Bio"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          koalahealthcare@gmail.com
+      twitter:        https://twitter.com/koalamama
 
     jane:
       name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      site:           
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          koalahealthcare@gmail.com
+      twitter:        https://twitter.com/koalamama
  
 # Defaults
 defaults:
@@ -43,16 +44,24 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Flight Recorder
+      avatar: assets/images/avatar1.jpg
 
 
-  # all recipes
+  # only recipes posts
   - scope:
       path: "_recipes"
     values:
       layout: recipe
-      author: sal
+      author: Flight Recorder
+      avatar: /assets/images/avatar1.jpg
+
+  # only parent posts
+  - scope:
+      path: "parents"
+    values:
+      layout: post
+      author: Flight Recorder
       avatar: /assets/images/avatar1.jpg
       
   # all pages
