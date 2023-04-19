@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "One-Bowl Classic Waffles"
-author: jane
+author: flightrecorder
 categories: [ recipe ]
 image: assets/images/waffle.jpeg
 tags: [sticky, featured]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tips & Tricks of Welcoming a Baby on a Budget"
-author: jane
+author: koalamama
 categories: [ parent, "tips & tricks" ]
 image: assets/images/12.jpg
 tags: [ ]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Going from One to Two"
-author: jane
+author: koalamama
 categories: [ parent ]
 image: assets/images/7.jpg
 tags: [featured]
