@@ -6,8 +6,8 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: 'https://www.babyblackbox.com'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'koalahealthcare@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,21 +20,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    koalamama:
+      name:           Koala Mama
+      site:           
+      avatar:         assets/images/author.png
+      bio:            "From hospitality professional to professional mama, blogger, and wife!"
+      email:          lovekoalamama@gmail.com
+      twitter:        https://twitter.com/LoveKoalaMama
+
+    flightrecorder:
       name:           Flight Recorder
       site:           
       avatar:         assets/images/avatar.jpg
       bio:            "Bio"
       email:          koalahealthcare@gmail.com
-      twitter:        https://twitter.com/koalamama
-
-    jane:
-      name:           Jane
-      site:           
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          koalahealthcare@gmail.com
-      twitter:        https://twitter.com/koalamama
+      twitter:        https://twitter.com/LoveKoalaMama
  
 # Defaults
 defaults:
@@ -44,8 +44,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Flight Recorder
-      avatar: assets/images/avatar1.jpg
+      author: Koala Mama
+      avatar: /assets/images/author.png
 
 
   # only recipes posts
@@ -53,16 +53,16 @@ defaults:
       path: "_recipes"
     values:
       layout: recipe
-      author: Flight Recorder
-      avatar: /assets/images/avatar1.jpg
+      author: Koala Mama
+      avatar: /assets/images/author.png
 
   # only parent posts
   - scope:
       path: "parents"
     values:
       layout: post
-      author: Flight Recorder
-      avatar: /assets/images/avatar1.jpg
+      author: Koala Mama
+      avatar: /assets/images/author.png
       
   # all pages
   - scope:
