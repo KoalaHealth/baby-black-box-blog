@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Traditional Crib vs Pack and Play"
-author: jane
+author: koalamama
 categories: [ parent ]
 image: assets/images/avatar.jpg
 tags: []
