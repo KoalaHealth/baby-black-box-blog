@@ -1,6 +1,13 @@
 <!--  Don't edit anything here. Set your disqus id in _config.yml -->
 
 <div id="comments" class="mt-5">
+    {% if site.cusdis %}
+    <div id="cusdis_thread" data-host="https://cusdis.com"
+        data-app-id="{{ site.cusdis }}"
+        data-page-id="{{- page.title -}}" data-page-url="{{ page.permalink }}"
+        data-page-title="{{ page.title }}"></div>
+      <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    {% else if site.disqus %}
     <div id="disqus_thread">
     </div>
     <script type="text/javascript">
@@ -15,4 +22,5 @@
     <noscript>
     Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
     </noscript>
+    {% endif %}
 </div>

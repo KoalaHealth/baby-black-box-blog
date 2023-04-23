@@ -5,9 +5,14 @@ logo: 'assets/images/baby-black-box-logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: 'https://www.babyblackbox.com'
-disqus: 'demowebsite'
 email: 'koalahealthcare@gmail.com'
+cusdis: '221ea967-e453-4bdd-999f-f2802cba0e26'
+# disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+# Analytics
+# google_analytics: 'G-GZ087LECC1'
+# microsoft_clarity: 'gt5f0pv248'
 
 include: ["_pages"]
 permalink: /:title/
@@ -33,7 +38,7 @@ authors:
       name:           Flight Recorder
       site:           
       avatar:         assets/images/avatar.jpg
-      bio:            "A father recording his parent journey live."
+      bio:            "A first-time parent recording his father thoughts and mistakes.  Rock climber, healthcare pro, and father."
       email:          koalahealthcare@gmail.com
       twitter:        https://twitter.com/LoveKoalaMama
       instagram:      https://www.instagram.com/LoveKoalaMama/
