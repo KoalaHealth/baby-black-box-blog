@@ -79,9 +79,23 @@ layout: default
 				</span>
 			</div>
  
-            <!-- Mailchimp Subscribe Form -->
-            {% if site.mailchimp-list %}
+            <!-- Subscribe Form -->
+			{% if site.email_octopus %}
 			<div class="border p-5 bg-lightblue">
+				<div class="row justify-content-between">
+					<div class="col-md-6 mb-2 mb-md-0">
+						<h5 class="font-weight-bold">Join Newsletter</h5>
+						 Get the latest news right in your inbox. We never spam!
+					</div>
+					<div class="col-md-6">
+						<div class="row">
+							<script async src="https://eocampaign1.com/form/{{ site.email_octopus }}.js" data-form="{{ site.email_octopus }}"></script>
+						</div>
+					</div>
+				</div>
+			</div>
+            {% else if site.mailchimp-list %}
+			<div class="border p-3 bg-lightblue">
 				<div class="row justify-content-between">
 					<div class="col-md-6 mb-2 mb-md-0">
 						<h5 class="font-weight-bold">Join Newsletter</h5>

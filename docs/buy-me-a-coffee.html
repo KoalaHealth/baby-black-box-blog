@@ -81,10 +81,10 @@
 </li>
 <li class="nav-item">
 <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mundana-ghost/">Ghost</a>
-</li>
-<li class="nav-item">
-<a target="_blank" class="nav-link" href="https://www.wowthemes.net/donate/">Buy me a coffee <i class="fa fa-coffee text-danger"></i></a>
-</li> -->
+</li>-->
+<!-- <li class="nav-item">
+    <a target="_blank" class="btn btn-danger d-block" href="https://www.buymeacoffee.com/KoalaCo"><i class="fa fa-coffee"></i> Buy me a coffee</a>
+</li>  -->
 
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
@@ -123,12 +123,12 @@ var documents = [{
     "id": 4,
     "url": "https://www.babyblackbox.com/authors-list.html",
     "title": "Authors",
-    "body": "Authors:                                             Koala Mama :       (View Posts)      From hospitality professional to professional mama, blogger, and wife!                          &nbsp;       &nbsp;       &nbsp;                                                                             Flight Recorder :       (View Posts)      A first-time parent recording his imperfect fathering.  Rock climber, healthcare pro, and father.                           &nbsp;       &nbsp;       &nbsp;                                      "
+    "body": "  Authors:                                             Koala Mama :       (View Posts)      From hospitality professional to professional mama, blogger, and wife!                          &nbsp;       &nbsp;       &nbsp;                                                                             Flight Recorder :       (View Posts)      A first-time parent recording his imperfect fathering.  Rock climber, healthcare pro, and father.                           &nbsp;       &nbsp;       &nbsp;                                        Support Us!:   Buy me a coffee"
     }, {
     "id": 5,
     "url": "https://www.babyblackbox.com/buy-me-a-coffee.html",
     "title": "Buy me a coffee",
-    "body": "Hi! I am Flight Recorder. Thank you so much! "
+    "body": "Hi! I am Flight Recorder. Coffee helps keep us parents going.  Consider buying us a cup! "
     }, {
     "id": 6,
     "url": "https://www.babyblackbox.com/categories.html",
@@ -226,6 +226,9 @@ function lunr_search(term) {
                 var url = documents[ref]['url'];
                 var title = documents[ref]['title'];
                 var body = documents[ref]['body'].substring(0,160)+'...';
+
+                // Remove template tags for now.
+                body = body.replace(/ *\{[^)]*\} */g, "");
                 document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><small><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></small></a></li>";
             }
         } else {
@@ -266,7 +269,9 @@ function lunr_search(term) {
 <div class="page-content">
 <p>Hi! I am Flight Recorder.</p>
 
-<p>Thank you so much!</p>
+<p>Coffee helps keep us parents going.  Consider buying us a cup!</p>
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="KoalaCo" data-description="Support me on Buy me a coffee!" data-message="Thank you for keeping us going!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 
 <!-- Comments -->
