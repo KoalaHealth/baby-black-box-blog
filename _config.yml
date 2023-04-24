@@ -12,8 +12,8 @@ cusdis: '221ea967-e453-4bdd-999f-f2802cba0e26'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Analytics
-# google_analytics: 'G-GZ087LECC1'
-# microsoft_clarity: 'gt5f0pv248'
+google_analytics: 'G-GZ087LECC1'
+microsoft_clarity: 'gt5f0pv248'
 
 include: ["_pages"]
 permalink: /:title/
