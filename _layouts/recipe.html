@@ -10,7 +10,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for category in page.categories %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/topics/#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
@@ -115,7 +115,7 @@ layout: default
                         {% endif %} 
 					</div>
 					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by <a href="{{site.baseurl}}/author-{{author.name | replace:' ', '-' | downcase}}">{{ author.name }}</a> <a target="_blank" href="{{ author.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
+                        <h5 class="font-weight-bold">Written by <a href="{{site.baseurl}}/author-{{author.name | replace:' ', '-' | downcase}}">{{ author.name }}</a> <a target="_blank" href="{{ author.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>{% if author.pinterest %}    <a target="_blank" href="{{ author.pinterest }}"><i class="fab fa-pinterest text-muted" aria-hidden="true"></i></a>{% endif %}{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
 						{{ author.bio }}					
 					</div>
 				</div>				

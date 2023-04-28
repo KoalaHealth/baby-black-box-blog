@@ -4,23 +4,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Buy me a coffee | Baby Black Box</title>
+    <title>All Topics | Baby Black Box</title>
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Buy me a coffee | Baby Black Box</title>
+<title>All Topics | Baby Black Box</title>
 <meta name="generator" content="Jekyll v4.3.2" />
-<meta property="og:title" content="Buy me a coffee" />
+<meta property="og:title" content="All Topics" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Baby Black Box is an honest blog for first-time and veteran parents." />
 <meta property="og:description" content="Baby Black Box is an honest blog for first-time and veteran parents." />
-<link rel="canonical" href="https://www.babyblackbox.com/buy-me-a-coffee.html" />
-<meta property="og:url" content="https://www.babyblackbox.com/buy-me-a-coffee.html" />
+<link rel="canonical" href="https://www.babyblackbox.com/topics/all" />
+<meta property="og:url" content="https://www.babyblackbox.com/topics/all" />
 <meta property="og:site_name" content="Baby Black Box" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Buy me a coffee" />
+<meta property="twitter:title" content="All Topics" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Baby Black Box is an honest blog for first-time and veteran parents.","headline":"Buy me a coffee","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.babyblackbox.com/assets/images/baby-black-box-logo.png"}},"url":"https://www.babyblackbox.com/buy-me-a-coffee.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Baby Black Box is an honest blog for first-time and veteran parents.","headline":"All Topics","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.babyblackbox.com/assets/images/baby-black-box-logo.png"}},"url":"https://www.babyblackbox.com/topics/all"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -137,17 +137,17 @@ var documents = [{
     "id": 3,
     "url": "https://www.babyblackbox.com/author-flight-recorder.html",
     "title": "Flight Recorder",
-    "body": "                        Flight Recorder Follow:                 A first-time parent recording his imperfect fathering.  Rock climber, healthcare pro, and father.                                   Posts by Flight Recorder:                   		One-Bowl Classic Waffles	: 		  Quick and easy waffles to make and cleanup. 	 			In 				recipe, 								Jan 18, 2022						            		Preparing as a New Dad	: 		  Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources. 	 			In 				new parent, 				first time parent, 				parent, 								Jan 01, 2020						            		Preparing with a Labor Plan	: 		  Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources. 	 			In 				new parent, 				first time parent, 				parent, 								Jan 01, 2020						         Buy me a coffee"
+    "body": "                        {{page. title}} Follow:         {{ site. authors. flightrecorder. site }}         {{ site. authors. flightrecorder. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , flightrecorder  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}   Buy me a coffee"
     }, {
     "id": 4,
     "url": "https://www.babyblackbox.com/author-koala-mama.html",
     "title": "Koala Mama",
-    "body": "                        Koala Mama Follow:                 From hospitality professional to professional mama, blogger, and wife!                                   Posts by Koala Mama:                   		Going from One to Two	: 		  How two is different than one. 	 			In 				parent, 								Sep 30, 2021						            		Tips &amp; Tricks of Welcoming a Baby on a Budget	: 		  Congratulations! on your bundle of joy!	 			In 				parent, 				tips &amp; tricks, 								Nov 23, 2020						            		Traditional Crib vs Pack and Play	: 		  Let me tell you why my family chose a pack and play instead of a traditional crib and bassinet. After tons of reading, researching, and reading some more, our reasons can be boiled do. . . 	 			In 				parent, 								May 22, 2020						         Buy me a coffee"
+    "body": "                        {{page. title}} Follow:         {{ site. authors. koalamama. site }}         {{ site. authors. koalamama. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , koalamama  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}   Buy me a coffee"
     }, {
     "id": 5,
     "url": "https://www.babyblackbox.com/authors-list.html",
     "title": "Authors",
-    "body": "  Authors:                                             Koala Mama :       (View Posts)      From hospitality professional to professional mama, blogger, and wife!                          &nbsp;       &nbsp;       &nbsp;                                                                             Flight Recorder :       (View Posts)      A first-time parent recording his imperfect fathering.  Rock climber, healthcare pro, and father.                           &nbsp;       &nbsp;       &nbsp;                                        Support Us!:   Buy me a coffee"
+    "body": "  {{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;       &nbsp;                                    {% endfor %}    Support Us!:   Buy me a coffee"
     }, {
     "id": 6,
     "url": "https://www.babyblackbox.com/buy-me-a-coffee.html",
@@ -289,18 +289,601 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         <div class="container">
-<h3 class="font-weight-bold spanborder"><span>Buy me a coffee</span></h3>
-<div class="page-content">
-<p>Hi! I am Flight Recorder.</p>
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">All Topics</h1>
+            
+         
+        <details>
+        <summary><h4 class="font-weight-bold spanborder text-capitalize d-inline-block" id="new parent"><span>new parent</span></h4></summary>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/welcome/">Welcome to Baby Black Box!</a>
+	</h2>
+	<p class="excerpt">
+	   Parenting is hard. Sharing is scary. Baby Black Box is where real parents record their stories as they happen "mid-flight" parenthood.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
 
-<p>Coffee helps keep us parents going.  Consider buying us a cup!</p>
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="KoalaCo" data-description="Support me on Buy me a coffee!" data-message="Thank you for keeping us going!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
-
-<!-- Comments -->
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/welcome/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Welcome to Baby Black Box!">
+	</a>
+	</div>
 
 </div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/preparing-as-a-new-dad/">Preparing as a New Dad</a>
+	</h2>
+	<p class="excerpt">
+	   Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/preparing-as-a-new-dad/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Preparing as a New Dad">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/preparing-a-labor-plan/">Preparing with a Labor Plan</a>
+	</h2>
+	<p class="excerpt">
+	   Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/preparing-a-labor-plan/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Preparing with a Labor Plan">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+        </details>
+         
+        <details>
+        <summary><h4 class="font-weight-bold spanborder text-capitalize d-inline-block" id="first time parent"><span>first time parent</span></h4></summary>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/welcome/">Welcome to Baby Black Box!</a>
+	</h2>
+	<p class="excerpt">
+	   Parenting is hard. Sharing is scary. Baby Black Box is where real parents record their stories as they happen "mid-flight" parenthood.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/welcome/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Welcome to Baby Black Box!">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/preparing-as-a-new-dad/">Preparing as a New Dad</a>
+	</h2>
+	<p class="excerpt">
+	   Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/preparing-as-a-new-dad/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Preparing as a New Dad">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/preparing-a-labor-plan/">Preparing with a Labor Plan</a>
+	</h2>
+	<p class="excerpt">
+	   Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/preparing-a-labor-plan/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Preparing with a Labor Plan">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+        </details>
+         
+        <details>
+        <summary><h4 class="font-weight-bold spanborder text-capitalize d-inline-block" id="parent"><span>parent</span></h4></summary>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/going-from-one-to-two/">Going from One to Two</a>
+	</h2>
+	<p class="excerpt">
+	   How two is different than one.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 30, 2021
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/going-from-one-to-two/">
+	<img class="w-100" src="/assets/images/7.jpg" alt="Going from One to Two">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/new-baby-tips-and-tricks/">Tips & Tricks of Welcoming a Baby on a Budget</a>
+	</h2>
+	<p class="excerpt">
+	   Congratulations! on your bundle of joy!
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#tips & tricks">tips & tricks</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 23, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/new-baby-tips-and-tricks/">
+	<img class="w-100" src="/assets/images/12.jpg" alt="Tips & Tricks of Welcoming a Baby on a Budget">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/crib-vs-pack-and-play/">Traditional Crib vs Pack and Play</a>
+	</h2>
+	<p class="excerpt">
+	   Let me tell you why my family chose a pack and play instead of a traditional crib and bassinet. After tons of reading, researching, and reading some more, our reasons can be boiled do...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 22, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/crib-vs-pack-and-play/">
+	<img class="w-100" src="/assets/images/avatar.jpg" alt="Traditional Crib vs Pack and Play">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/welcome/">Welcome to Baby Black Box!</a>
+	</h2>
+	<p class="excerpt">
+	   Parenting is hard. Sharing is scary. Baby Black Box is where real parents record their stories as they happen "mid-flight" parenthood.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/welcome/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Welcome to Baby Black Box!">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/preparing-as-a-new-dad/">Preparing as a New Dad</a>
+	</h2>
+	<p class="excerpt">
+	   Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/preparing-as-a-new-dad/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Preparing as a New Dad">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/preparing-a-labor-plan/">Preparing with a Labor Plan</a>
+	</h2>
+	<p class="excerpt">
+	   Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#new parent">new parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#first time parent">first time parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/preparing-a-labor-plan/">
+	<img class="w-100" src="/assets/images/baby-black-box-logo.png" alt="Preparing with a Labor Plan">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+        </details>
+         
+        <details>
+        <summary><h4 class="font-weight-bold spanborder text-capitalize d-inline-block" id="tips & tricks"><span>tips & tricks</span></h4></summary>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/new-baby-tips-and-tricks/">Tips & Tricks of Welcoming a Baby on a Budget</a>
+	</h2>
+	<p class="excerpt">
+	   Congratulations! on your bundle of joy!
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#tips & tricks">tips & tricks</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 23, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/new-baby-tips-and-tricks/">
+	<img class="w-100" src="/assets/images/12.jpg" alt="Tips & Tricks of Welcoming a Baby on a Budget">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+        </details>
+         
+        <details>
+        <summary><h4 class="font-weight-bold spanborder text-capitalize d-inline-block" id="recipe"><span>recipe</span></h4></summary>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/classic-waffles/">One-Bowl Classic Waffles</a>
+	</h2>
+	<p class="excerpt">
+	   Quick and easy waffles to make and cleanup.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics/#recipe">recipe</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/classic-waffles/">
+	<img class="w-100" src="/assets/images/waffle.jpeg" alt="One-Bowl Classic Waffles">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+        </details>
+        
+
+      </div>
+        
+      <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/classic-waffles/" class="text-dark">One-Bowl Classic Waffles</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/topics/#recipe">recipe</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/going-from-one-to-two/" class="text-dark">Going from One to Two</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/topics/#parent">parent</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+      </div>
+        
+    </div>
 </div>
     </main>
 
