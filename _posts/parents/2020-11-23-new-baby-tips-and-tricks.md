@@ -15,7 +15,7 @@ As we started planning on extending our family I combed the internet. I read ton
 
 This was our journey: 
 
-We joined the Facebook Buy Nothing group and Nextdoor for our local area. These sites gave us access to free/ cheap second hand items.
+We joined the Facebook Buy Nothing group and Nextdoor for our local area. These sites gave us access to free/cheap secondhand items.
 
 As my husband and I were both working very demanding full time jobs and we knew we had a tight budget, we made a list of everything we needed/ wanted. This allowed both of us to look and respond to posts without having to text or call the other. 
 
@@ -27,7 +27,7 @@ What we sourced:
 - Swings (two different kids) 
 - Breast pumps and parts
 
-My husband is way more tech savvy and loves to search through sites. So we were able to successfully source the entire list above as well as: 
+My husband is wayyy more tech savvy and loves to search through sites. So we were able to successfully source the entire list above as well as: 
 - a changing table with silicone change pad 
 - diaper bag 
 - new elephant basket with new baby toys 
@@ -35,4 +35,4 @@ My husband is way more tech savvy and loves to search through sites. So we were 
 
 It takes time so start early! 
 
-These site will continue to help you parent on a budget as your child/ children grow. 
+I'll share more posts to help you parent on a budget as your children grow!
