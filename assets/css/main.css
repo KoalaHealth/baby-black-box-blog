@@ -4828,6 +4828,13 @@ button.close {
   -webkit-perspective: 1000px;
           perspective: 1000px; }
 
+
+
+.shadow-b-sm {
+  box-shadow: 0 4px 5px -5px rgba(0, 0, 0, 0.3);
+  padding-bottom: 16px;
+}
+
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -5732,7 +5739,11 @@ button.bg-lightblue:focus {
   .align-self-lg-baseline {
     align-self: baseline !important; }
   .align-self-lg-stretch {
-    align-self: stretch !important; } }
+    align-self: stretch !important; } 
+    .shadow-b-sm {
+      box-shadow: none;
+      padding-bottom: 0;
+    } }
 
 @media (min-width: 1200px) {
   .flex-xl-row {
@@ -7079,7 +7090,13 @@ button.bg-lightblue:focus {
     margin-bottom: auto !important; }
   .ml-xl-auto,
   .mx-xl-auto {
-    margin-left: auto !important; } }
+    margin-left: auto !important; } 
+  
+  .shadow-b-sm {
+    box-shadow: none;
+  }}
+
+  
 
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
