@@ -3,7 +3,7 @@ layout: post
 title:  "Preparing with a Labor Plan"
 categories: [ "new parent", "first time parent", "parent" ]
 image: assets/images/baby-black-box-logo.png
-published: true
+published: false
 date: 2020-01-01
 excerpt: 'Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources.'
 description: 'Having a quick reference/labor plan can help you stay calm when you are tired or panicked.'
