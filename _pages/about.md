@@ -9,6 +9,9 @@ comments: true
 
 <br />
 
+*Why Black Box?*
+*Black boxes* are emergency information storage devices on planes that live record audio in the cockpit and important information in the flight - just in case.  These online "live" posts are *baby black boxes* of real parents on their journey, shared just in case it's helpful.
+
 The idea to record my "fresh father learnings" came from my friends.  They asked me to write up a shared doc of things I have learned in my new journey.  Being one of the first in the group to take this life changing step (of going "full sea horse," the best of nature's fathers), I reluctantly obliged.  However, being neither pleb, nor peasant, I wrote this "share-all blog" instead - public and open to everyone.  Anonymity protects and let's me be honest.
 
 This is my experience, and I hope you find it helpful, amusing, and supportive.  Yours will probably be different.  
