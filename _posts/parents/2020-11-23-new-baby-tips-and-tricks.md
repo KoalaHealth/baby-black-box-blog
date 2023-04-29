@@ -11,11 +11,11 @@ published: true
 
 Congratulations! on your bundle of joy!
 
-As we started planning on extending our family I combed the internet. I read tons of mom blogs and watched hundreds of hours of vlogs. To me, it all boiled down to everyone's budget, space, ideas and values are different. You will want to spend money on some things and you will be open to accepting certain things second hand.
+As we started planning to extend our family, I combed the internet. I read tons of mom blogs and watched hundreds of hours of vlogs. To me, it all boiled down to everyone's different budget, space, ideas and values. You will want to spend money on some things and be open to accepting certain things secondhand.
 
 This was our journey: 
 
-We joined the Facebook Buy Nothing group and Nextdoor for our local area. These sites gave us access to free/cheap secondhand items.
+We joined the local Facebook *Buy Nothing* group and *Nextdoor* for our local area. These sites gave us access to free/cheap secondhand items.
 
 As my husband and I were both working very demanding full time jobs and we knew we had a tight budget, we made a list of everything we needed/ wanted. This allowed both of us to look and respond to posts without having to text or call the other. 
 
