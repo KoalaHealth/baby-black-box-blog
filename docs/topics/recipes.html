@@ -4,23 +4,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Buy me a coffee | Baby Black Box</title>
+    <title>Recipes | Baby Black Box</title>
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Buy me a coffee | Baby Black Box</title>
+<title>Recipes | Baby Black Box</title>
 <meta name="generator" content="Jekyll v4.3.2" />
-<meta property="og:title" content="Buy me a coffee" />
+<meta property="og:title" content="Recipes" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Baby Black Box is an honest blog for first-time and veteran parents." />
 <meta property="og:description" content="Baby Black Box is an honest blog for first-time and veteran parents." />
-<link rel="canonical" href="https://www.babyblackbox.com/buy-me-a-coffee.html" />
-<meta property="og:url" content="https://www.babyblackbox.com/buy-me-a-coffee.html" />
+<link rel="canonical" href="https://www.babyblackbox.com/topics/recipes" />
+<meta property="og:url" content="https://www.babyblackbox.com/topics/recipes" />
 <meta property="og:site_name" content="Baby Black Box" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Buy me a coffee" />
+<meta property="twitter:title" content="Recipes" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Baby Black Box is an honest blog for first-time and veteran parents.","headline":"Buy me a coffee","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.babyblackbox.com/assets/images/baby-black-box-logo.png"}},"url":"https://www.babyblackbox.com/buy-me-a-coffee.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Baby Black Box is an honest blog for first-time and veteran parents.","headline":"Recipes","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.babyblackbox.com/assets/images/baby-black-box-logo.png"}},"url":"https://www.babyblackbox.com/topics/recipes"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -157,22 +157,22 @@ var documents = [{
     "id": 7,
     "url": "https://www.babyblackbox.com/contact.html",
     "title": "Contact",
-    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
+    "body": "  Please send your message to Baby Black Box. We will reply as soon as possible!   "
     }, {
     "id": 8,
     "url": "https://www.babyblackbox.com/",
     "title": "Baby Black Box",
-    "body": "  {% if page. url ==  /  %}          {% assign latest_post = site. categories['parent'][0] %}          &lt;div class= topfirstimage  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;           {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_newlines | truncate: 142 }}               In         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                                {{ latest_post. date | date: '%b %d, %Y' }}                            {%- assign second_post = site. categories['parent'][1] -%}                       {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %}{{site. baseurl}}/{{ second_post. image}}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                                    {{ second_post. title }}          :                       In             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                                      {{ second_post. date | date: '%b %d, %Y' }}                                    {%- assign third_post = site. categories['parent'][2] -%}                        {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                                    {{ third_post. title }}          :                       In             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                                      {{ third_post. date | date: '%b %d, %Y' }}                                    {%- assign fourth_post = site. categories['parent'][3] -%}                        {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                                    {{ fourth_post. title }}          :                       In             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                                      {{ fourth_post. date | date: '%b %d, %Y' }}                                  {% for post in site. posts %} {% if post. tags contains  sticky  %}                    {{post. title}}                  {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Read More            	             {% endif %}{% endfor %}  {% endif %}           {% include sidebar-featured. html %}                Recipes:     {% for post in site. categories. recipe %}      {% include recipe-loop-card. html %}    {% endfor %}    {% for post in paginator. posts. recipes %}      {% include recipe-loop-card. html %}        {% endfor %}                   {% if paginator. total_pages &gt; 1 %}              {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}                             All Posts:         {% for post in paginator. posts %}      {% if post. categories contains  recipe  %}      {% else %}        {% include main-loop-card. html %}      {% endif %}    {% endfor %}                   {% if paginator. total_pages &gt; 1 %}              {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}               "
+    "body": "                                Going from One to Two  :       How two is different than one.               In                 parent,                                        Sep 30, 2021                                                                                                                             Tips &amp; Tricks of Welcoming a Baby on a Budget          :                       In                         parent,                         tips &amp; tricks,                                                                  Nov 23, 2020                                                                                                                                     Traditional Crib vs Pack and Play          :                       In                         parent,                                                                  May 22, 2020                                                                                                                                    Welcome to Baby Black Box!          :                       In                         new parent,                         first time parent,                         parent,                                                                  Jan 01, 2020                                                       One-Bowl Classic Waffles                  Quick and easy waffles to make and cleanup.                 Read More            	                              Featured:    				                                  One-Bowl Classic Waffles                          In                     recipe,                                                                                   Going from One to Two                          In                     parent,                                                                        Recipes:           		One-Bowl Classic Waffles	: 		  Quick and easy waffles to make and cleanup. 	 			In 				recipe, 								Jan 18, 2022						                                                       All Posts:                                       		Going from One to Two	: 		  How two is different than one. 	 			In 				parent, 								Sep 30, 2021						                        		Tips &amp; Tricks of Welcoming a Baby on a Budget	: 		  Congratulations! on your bundle of joy!	 			In 				parent, 				tips &amp; tricks, 								Nov 23, 2020						                        		Traditional Crib vs Pack and Play	: 		  Let me tell you why my family chose a pack and play instead of a traditional crib and bassinet. After tons of reading, researching, and reading some more, our reasons can be boiled do. . . 	 			In 				parent, 								May 22, 2020						                        		Welcome to Baby Black Box!	: 		  Parenting is hard. Sharing is scary. Baby Black Box is where real parents record their stories as they happen  mid-flight  parenthood. 	 			In 				new parent, 				first time parent, 				parent, 								Jan 01, 2020						                        		Preparing as a New Dad	: 		  Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources. 	 			In 				new parent, 				first time parent, 				parent, 								Jan 01, 2020						                        		Preparing with a Labor Plan	: 		  Stay Calm. You’ve got this.  Your physicians and parents can be incredible resources. 	 			In 				new parent, 				first time parent, 				parent, 								Jan 01, 2020						                                            "
     }, {
     "id": 9,
     "url": "https://www.babyblackbox.com/privacy-policy.html",
     "title": "Privacy Policy",
-    "body": "”{{site. name}}” takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used. Collection of Routine Information: This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes. Cookies: Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content. Advertisement and Other Third Parties: Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to opt out of Google’s cookie usage. Links to Third Party Websites: We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. Security: The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Changes To This Privacy Policy: This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website. Contact Information: For any questions or concerns regarding the privacy policy, please contact us here. "
+    "body": "“Baby Black Box” takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used. Collection of Routine Information: This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes. Cookies: Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content. Advertisement and Other Third Parties: Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to opt out of Google’s cookie usage. Links to Third Party Websites: We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. Security: The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Changes To This Privacy Policy: This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website. Contact Information: For any questions or concerns regarding the privacy policy, please contact us here. "
     }, {
     "id": 10,
     "url": "https://www.babyblackbox.com/topics/recipes",
     "title": "Recipes",
-    "body": "         Topics:           {% for category in site. categories %}     {% if category[0] contains 'recipe' %}    Homemade Recipes          {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endif %}    {% endfor %}              {% include sidebar-featured-recipes. html %}           "
+    "body": "         Topics:                                                     Homemade Recipes                                  		One-Bowl Classic Waffles	: 		  Quick and easy waffles to make and cleanup. 	 			In 				recipe, 								Jan 18, 2022						                                             Featured:    				                                      One-Bowl Classic Waffles                          In                     recipe,                                                                                    "
     }, {
     "id": 11,
     "url": "https://www.babyblackbox.com/tags.html",
@@ -294,18 +294,93 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         <div class="container">
-<h3 class="font-weight-bold spanborder"><span>Buy me a coffee</span></h3>
-<div class="page-content">
-<p>Hi! I am Flight Recorder.</p>
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <h4 class="font-weight-bold title h6 text-uppercase mb-4">Topics</h4>
+            
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+        <h1 class="font-weight-bold spanborder text-capitalize" id="recipe"><span>Homemade Recipes</span></h1>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/classic-waffles/">One-Bowl Classic Waffles</a>
+	</h2>
+	<p class="excerpt">
+	   Quick and easy waffles to make and cleanup.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/topics#recipe">recipe</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2022
+	</small>
+</div>
 
-<p>Coffee helps keep us parents going.  Consider buying us a cup!</p>
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="KoalaCo" data-description="Support me on Buy me a coffee!" data-message="Thank you for keeping us going!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
-
-<!-- Comments -->
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/classic-waffles/">
+	<img class="w-100" src="/assets/images/waffle.jpeg" alt="One-Bowl Classic Waffles">
+	</a>
+	</div>
 
 </div>
+          
+        
+        
+        
+        
+        
+        
+
+      </div>
+        
+      <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+        
+        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/classic-waffles/" class="text-dark">One-Bowl Classic Waffles</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/topics#recipe">recipe</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>        
+                
+        
+                
+           
+    </ol>
+</div>     
+      </div>
+        
+    </div>
 </div>
     </main>
 

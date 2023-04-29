@@ -15,6 +15,13 @@ permalink: "/author-koala-mama.html"
             <div class="col-md-3 text-right">
                 <img alt="{{ site.authors.koalamama.name }}" src="{{site.baseurl}}/{{ site.authors.koalamama.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
+
+            <div class="col-md-3">
+                {% if site.authors.koalamama.instagram %}<a target="_blank" href="{{ site.authors.koalamama.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;{% endif %}
+                {% if site.authors.koalamama.pinterest %}<a target="_blank" href="{{ site.authors.koalamama.pinterest }}"><i class="fab fa-pinterest text-muted" aria-hidden="true"></i></a>  &nbsp;{% endif %}
+                {% if site.authors.koalamama.twitter %}<a target="_blank" href="{{ site.authors.koalamama.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;{% endif %}
+                {% if site.authors.koalamama.site %}<a target="_blank" href="{{ site.authors.koalamama.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;{% endif %}
+            </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
             {% assign posts = site.posts | where:"author","koalamama" %}
