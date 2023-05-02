@@ -3,7 +3,7 @@ layout: post
 title:  "No One Needs to Hold My Baby"
 author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
-image: assets/images/baby-black-box-logo.png
+image: https://images.unsplash.com/photo-1505497100-73ddb5317fa7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=melody-p-cSNumclQixw-unsplash.jpg
 published: true
 date: 2023-04-29
 excerpt: 'A very important factor is support and alignment with your partner. I was a bit extra but my husband never pressured me and 100% supported my feelings. This was honestly a pivotal point in our transition to parenthood and going from two to four.'
