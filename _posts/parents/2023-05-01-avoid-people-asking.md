@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Things I Did to Avoid People Asking"
+title:  "Things I Did to Avoid People Asking Me to Hold My Baby"
+author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
 image: assets/images/baby-black-box-logo.png
 published: true
