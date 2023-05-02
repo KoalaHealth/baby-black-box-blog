@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Peanut Butter and Prune Teething Crackers"
 author: koalamama
-categories: [ recipe, authenticcooking ]
+categories: [ recipe, "authentic cooking" ]
 image: assets/images/pb-and-prune-puree-crackers.jpg
 tags: [sticky, featured]
 date: 2021-07-07
