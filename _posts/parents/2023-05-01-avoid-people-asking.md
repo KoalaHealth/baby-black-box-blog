@@ -3,7 +3,7 @@ layout: post
 title:  "Things I Did to Avoid People Asking Me to Hold My Baby"
 author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
-image: assets/images/baby-black-box-logo.png
+image: https://images.unsplash.com/photo-1505497100-73ddb5317fa7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=melody-p-cSNumclQixw-unsplash.jpg
 published: true
 date: 2023-04-29
 excerpt: 'Be sympathetic but maintain your boundaries.'
