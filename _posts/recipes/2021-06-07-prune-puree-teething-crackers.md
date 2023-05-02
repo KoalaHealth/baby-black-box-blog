@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Prune Puree Teething Crackers"
 author: koalamama
-categories: [ recipe ]
+categories: [ recipe, authenticcooking ]
 image: assets/images/prune-puree-crackers.jpg
 tags: []
 date: 2021-06-07
