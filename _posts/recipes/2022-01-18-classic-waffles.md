@@ -4,7 +4,7 @@ title:  "One-Bowl Classic Waffles"
 author: flightrecorder
 categories: [ recipe ]
 image: assets/images/waffle.jpeg
-tags: [sticky, featured]
+tags: [featured]
 excerpt: "Quick and easy waffles to make and cleanup."
 ---
 

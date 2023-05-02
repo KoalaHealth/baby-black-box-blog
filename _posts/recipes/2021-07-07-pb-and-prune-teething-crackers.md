@@ -1,16 +1,16 @@
 ---
 layout: recipe
 title:  "Peanut Butter and Prune Teething Crackers"
-author: flightrecorder
-categories: [ recipe ]
-image: assets/images/waffle.jpeg
-tags: [sticky, featured]
-date: 2020-11-23
+author: koalamama
+categories: [ recipe, authenticcooking ]
+image: assets/images/pb-and-prune-puree-crackers.JPG
+tags: [sticky]
+date: 2021-07-07
 published: true
 excerpt: "A healthy and common allergen-introducing snack for your infant having teething pains."
 ---
 
-My little one loves the <a href="{{site.baseurl}}/prune-puree-teething-cracker">prune purée teething "crackers"</a> I posted about a month ago. So I used them as a base to start introducing allergies.  I found a great way to make sure she consistently has peanut butter in her diet was to make a nut butter and jelly ( prune purée) bar. 
+My little one loves the <a href="{{site.baseurl}}/prune-puree-teething-crackers">prune purée teething "crackers"</a> I posted about a month ago. So I used them as a base to start introducing allergies.  I found a great way to make sure she consistently has peanut butter in her diet was to make a nut butter and jelly ( prune purée) bar. 
 
 Hope your little one enjoys it! 
 

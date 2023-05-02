@@ -4,7 +4,7 @@ title:  "Prune Puree Teething Crackers"
 author: koalamama
 categories: [ recipe ]
 image: assets/images/prune-puree-crackers.jpg
-tags: [sticky]
+tags: []
 date: 2021-06-07
 published: true
 excerpt: "A healthy and nutritional snack for your infant having teething pains."
