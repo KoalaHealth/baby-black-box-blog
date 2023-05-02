@@ -32,6 +32,29 @@ You can make your own:
     * **Option 2**: 1/2 a cup of oat flour for 1/2 cup of baby oatmeal will up the iron levels and help you use up the baby oatmeal you have leftover 
 
 
+### Directions: 
+
+#### Step 1
+Preheat oven to 350 degrees F. 
+
+#### Step 2
+Prepare a baking sheet with parchment paper.
+
+#### Step 3
+In a medium size bowl, combine all ingredients.
+
+#### Step 4
+Using a spatula or spoon, spread dough over the prepared baking sheet until it is about 1/4 inch thick.
+
+#### Step 5
+Use the back of a butter knife, score the dough into squares or rectangles.
+
+#### Step 6
+Bake 15-20 minutes.
+
+#### Step 7
+Remove from oven, let cool, then break apart and enjoy!
+
 
 Quick links: 
 - <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/235S4Z50EN10G?leftNavSection=Shopping&linkCode=ll2&tag=koalaco-20&linkId=9df084f92ed538516f7898d09968d3fb&language=en_US&ref_=as_li_ss_tl"><u>Shopping List</u></a>

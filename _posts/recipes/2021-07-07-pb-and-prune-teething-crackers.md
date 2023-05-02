@@ -39,9 +39,31 @@ You can make your own:
 -- Substituting 1/2 a cup of oat flour for 1/2 cup of baby oatmeal will up the iron levels and help you use up the baby oatmeal you have leftover 
 
 
-### Directions
+### Directions: 
 
 #### Step 1
+Preheat oven to 350 degrees F. 
+
+#### Step 2
+Prepare a baking sheet with parchment paper.
+
+#### Step 3
+In a medium size bowl, combine prune purée, peanut butter and vanilla.
+
+#### Step 4
+Once combined, add oat flour and cinnamon.  Stir until well combined (dough will be thick).
+
+#### Step 5
+Using a spatula or spoon, spread dough over the prepared baking sheet until it is about 1/4 inch thick.
+
+#### Step 6
+Use the back of a butter knife, score the dough into squares or rectangles.
+
+#### Step 7
+Bake 15-20 minutes.
+
+#### Step 8
+Remove from oven, let cool, then break apart and enjoy!
 
 
 
