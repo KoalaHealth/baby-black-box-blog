@@ -1,10 +1,11 @@
 ---
 layout: recipe
-title:  "One-Bowl Classic Waffles"
-author: flightrecorder
+title:  "Waffles"
+author: koalamama
 categories: [ recipe ]
 image: assets/images/waffle.jpeg
 tags: [sticky, featured]
+date: 2021-07-07
 published: false
 excerpt: "Quick and easy waffles to make and cleanup."
 ---
