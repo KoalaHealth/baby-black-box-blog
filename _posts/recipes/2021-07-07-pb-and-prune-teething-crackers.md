@@ -4,7 +4,7 @@ title:  "Peanut Butter and Prune Teething Crackers"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/pb-and-prune-puree-crackers.jpg
-tags: [sticky, featured]
+tags: [featured]
 date: 2021-07-07
 published: true
 excerpt: "A healthy and common allergen-introducing snack for your infant having teething pains."
