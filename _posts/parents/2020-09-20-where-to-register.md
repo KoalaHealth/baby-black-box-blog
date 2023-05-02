@@ -3,7 +3,7 @@ layout: post
 title:  "Where to Register to Get Baby Samples and Discounts"
 author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
-image: assets/images/baby-black-box-logo.png
+image: assets/images/baby-registries.png
 published: true
 date: 2020-09-22
 excerpt: 'Parenting is hard. Many companies want to help. Get samples and discounts here.'
