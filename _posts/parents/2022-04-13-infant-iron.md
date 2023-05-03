@@ -4,7 +4,7 @@ title:  "Infant Iron Levels"
 author: flightrecorder
 categories: [ "new parent", "first time parent", "parent" ]
 image: assets/images/baby-black-box-logo.png
-published: false
+published: true
 date: 2022-04-13
 excerpt: "Make sure to check your infant's iron levels."
 ---
