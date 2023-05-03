@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Double Chocolate Chip Oatmeal Lactation Cookies"
 author: koalamama
-categories: [ recipe ]
+categories: [ recipe, "authentic cooking" ]
 image: assets/images/double-chocolate-chip-oatmeal-lactation-cookie.jpg
 tags: []
 date: 2023-04-26

@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Lactation Oatmeal Cookies"
 author: koalamama
-categories: [ recipe ]
+categories: [ recipe, "authentic cooking" ]
 image: assets/images/lactation-oatmeal-cookie.jpg
 tags: [sticky, featured]
 date: 2023-04-01
