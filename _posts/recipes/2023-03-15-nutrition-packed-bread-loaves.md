@@ -3,7 +3,7 @@ layout: recipe
 title:  "Nutrition-Packed Bread Loaves"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
-image: assets/images/protein-waffles.jpg
+image: assets/images/bread-rolls.jpg
 tags: []
 date: 2023-05-04
 published: true
