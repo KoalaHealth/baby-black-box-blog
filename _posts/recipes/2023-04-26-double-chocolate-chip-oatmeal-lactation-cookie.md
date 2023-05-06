@@ -17,7 +17,7 @@ They are perfect to satisfy a chocolate craving or the midnight boost you need a
 
 ### Ingredients
 
-<a href="https://www.amazon.com/hz/wishlist/ls/3MELVX4S77MGI?&linkCode=ll2&tag=koalaco-20&linkId=601b9c2d3c6481261e2e5fd2a90b686b&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
+<a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/3MELVX4S77MGI?&linkCode=ll2&tag=koalaco-20&linkId=601b9c2d3c6481261e2e5fd2a90b686b&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
 
 - 2 tablespoons ground flax seed
 - 3 tablespoons water
@@ -56,4 +56,4 @@ They are perfect to satisfy a chocolate craving or the midnight boost you need a
 
 ### Quick link:
 
-<a href="https://www.amazon.com/hz/wishlist/ls/3MELVX4S77MGI?&linkCode=ll2&tag=koalaco-20&linkId=601b9c2d3c6481261e2e5fd2a90b686b&language=en_US&ref_=as_li_ss_tl">Grocery List</a>
+<a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/3MELVX4S77MGI?&linkCode=ll2&tag=koalaco-20&linkId=601b9c2d3c6481261e2e5fd2a90b686b&language=en_US&ref_=as_li_ss_tl">Grocery List</a>
