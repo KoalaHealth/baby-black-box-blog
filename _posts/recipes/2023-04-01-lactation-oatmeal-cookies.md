@@ -17,10 +17,12 @@ This is a healthy-ish cookie so it is going to be dense and not super sweet. The
 
 ### Ingredients
 
+<a href="https://www.amazon.com/hz/wishlist/ls/317E48X8J4GZU?&linkCode=ll2&tag=koalaco-20&linkId=276e22ce4e5846f5e70de6f5f390bb7f&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
+
 - 2 tablespoons ground flax seed
 - 3 tablespoons water
-- ½ cup coconut oil ( melted or softened)
-- ¼ cup maple syrup ( room temperature)
+- ½ cup coconut oil (melted or softened)
+- ¼ cup maple syrup (room temperature)
 - 2 eggs (room temperature)
 - 1 teaspoon vanilla
 - 1½ cups all purpose flour
@@ -50,3 +52,8 @@ This is a healthy-ish cookie so it is going to be dense and not super sweet. The
 
 ### Recipe notes:
 - They can be stored in fridge for 5 days or freeze for up to 3 months. I love to keep them in the freezer and pull them out a few at a time throughout the day. They will thaw quickly on the counter.
+
+
+### Quick link:
+
+<a href="https://www.amazon.com/hz/wishlist/ls/317E48X8J4GZU?&linkCode=ll2&tag=koalaco-20&linkId=276e22ce4e5846f5e70de6f5f390bb7f&language=en_US&ref_=as_li_ss_tl">Grocery List</a>
