@@ -15,7 +15,7 @@ These are nutrition-rich waffles that are friendly for toddlers and perfect for 
 
 ### Ingredients
 
-<a href="https://www.amazon.com/hz/wishlist/ls/NYKCB9IO4YL0?&linkCode=ll2&tag=koalaco-20&linkId=56982c68ccb3b27a8e395d0b369ece63&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
+<a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/NYKCB9IO4YL0?&linkCode=ll2&tag=koalaco-20&linkId=56982c68ccb3b27a8e395d0b369ece63&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
 
 - 2 cups rolled oats
 - 6 eggs
@@ -35,4 +35,4 @@ These are nutrition-rich waffles that are friendly for toddlers and perfect for 
 
 ### Quick Links:
 
-<a href="https://www.amazon.com/hz/wishlist/ls/NYKCB9IO4YL0?&linkCode=ll2&tag=koalaco-20&linkId=56982c68ccb3b27a8e395d0b369ece63&language=en_US&ref_=as_li_ss_tl">Grocery List</a>
+<a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/NYKCB9IO4YL0?&linkCode=ll2&tag=koalaco-20&linkId=56982c68ccb3b27a8e395d0b369ece63&language=en_US&ref_=as_li_ss_tl">Grocery List</a>

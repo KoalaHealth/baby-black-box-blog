@@ -15,7 +15,7 @@ These are nutrition-packed bread loaves - perfect for the entire family.
 
 ### Ingredients
 
-<a href="https://www.amazon.com/hz/wishlist/ls/3RAJJ4R5LWPIS?&linkCode=ll2&tag=koalaco-20&linkId=1535acd9aeba67c3d35d950b11544d72&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
+<a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/3RAJJ4R5LWPIS?&linkCode=ll2&tag=koalaco-20&linkId=1535acd9aeba67c3d35d950b11544d72&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
 
 - 2 cups flour (all purpose or whole wheat)
 - 4 tsps baking powder
@@ -38,6 +38,6 @@ These are nutrition-packed bread loaves - perfect for the entire family.
 
 ### Quick link:
 
-<a href="https://www.amazon.com/hz/wishlist/ls/3RAJJ4R5LWPIS?&linkCode=ll2&tag=koalaco-20&linkId=1535acd9aeba67c3d35d950b11544d72&language=en_US&ref_=as_li_ss_tl">Grocery List</a>
+<a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/3RAJJ4R5LWPIS?&linkCode=ll2&tag=koalaco-20&linkId=1535acd9aeba67c3d35d950b11544d72&language=en_US&ref_=as_li_ss_tl">Grocery List</a>
 
 
