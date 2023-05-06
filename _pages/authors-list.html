@@ -1,7 +1,7 @@
 ---
 title: "Authors"
 layout: default
-permalink: "/authors-list.html"
+permalink: "/authors/list"
 ---
 
 <div class="container">
@@ -13,7 +13,7 @@ permalink: "/authors-list.html"
             <div class="row">
             <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{site.baseurl}}/{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
             <div class="col-md-9">
-            <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
+            <a href="{{site.baseurl}}/authors/{{ author[1].name | slugify }}">
             <h4 class="text-dark mb-0"> {{ author[1].name }} </h4>
             <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
             <div class="excerpt">{{ author[1].bio }}</div>
@@ -34,5 +34,5 @@ permalink: "/authors-list.html"
     </div>
 
     <h4 class="font-weight-bold spanborder"><span>Support Us!</span></h4>
-    <a target="_blank" class="btn btn-warning d-block col-lg-3" href="https://www.buymeacoffee.com/KoalaCo"><img src="{{ page.site_url }}assets/images/coffee.png" alt="cup of coffee image" width="auto" height="24" /> Buy me a coffee</a>
+    <a target="_blank" class="btn btn-warning d-block col-lg-3" href="https://www.buymeacoffee.com/KoalaCo"><img src="{{ site.baseurl }}/assets/images/coffee.png" alt="cup of coffee image" width="auto" height="24" /> Buy me a coffee</a>
 </div>
