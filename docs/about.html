@@ -87,7 +87,7 @@
   <a class="nav-link" href="/">Home</a>
 </li>
 <li class="nav-item">
-  <a class="nav-link" href="/authors-list.html">Authors</a>
+  <a class="nav-link" href="/authors/list">Authors</a>
 </li>
 <li class="nav-item">
   <a class="nav-link" href="/about">About</a>
@@ -135,17 +135,17 @@ var documents = [{
     "body": "         All Topics          {% for category in site. categories %}         {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}        {% endfor %}              {% include sidebar-featured. html %}           "
     }, {
     "id": 3,
-    "url": "https://www.babyblackbox.com/author-flight-recorder.html",
+    "url": "https://www.babyblackbox.com/authors/flight-recorder",
     "title": "Flight Recorder",
     "body": "                        {{page. title}} Follow:         {{ site. authors. flightrecorder. site }}         {{ site. authors. flightrecorder. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , flightrecorder  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}   Buy me a coffee"
     }, {
     "id": 4,
-    "url": "https://www.babyblackbox.com/author-koala-mama.html",
+    "url": "https://www.babyblackbox.com/authors/koala-mama",
     "title": "Koala Mama",
-    "body": "                        {{page. title}} Follow:         {{ site. authors. koalamama. site }}         {{ site. authors. koalamama. bio }}                                         {% if site. authors. koalamama. instagram %} &nbsp;{% endif %}        {% if site. authors. koalamama. pinterest %} &nbsp;{% endif %}        {% if site. authors. koalamama. twitter %} &nbsp;{% endif %}        {% if site. authors. koalamama. site %} &nbsp;{% endif %}              Posts by {{page. title}}:       {% assign posts = site. posts | where: author , koalamama  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}   Buy me a coffee"
+    "body": "                        {{page. title}} Follow:         {{ site. authors. koalamama. site }}         {{ site. authors. koalamama. bio }}                                         {% if site. authors. koalamama. instagram %} &nbsp;{% endif %}        {% if site. authors. koalamama. pinterest %} &nbsp;{% endif %}        {% if site. authors. koalamama. twitter %} &nbsp;{% endif %}        {% if site. authors. koalamama. site %} &nbsp;{% endif %}              Why I Share My Life:           Hello!!! I am a Mom of two beautiful children that are 2 years apart. I found out I was pregnant with my first, as the world was shutting down because of COVID. Working in hospitality and having the unfortunate task of furloughing my entire hotel, I knew any day would be my last day. As a very hormonal first time mom, I started writing notes and doing tons of research ( both I think made me a little crazy) but I was lonely, sad, scared and excited to see my little cinnamon roll all at the same time! Growing up with dyslexia I have NEVER been a writer but writing these notes became a healthy outlet for me during this very lonely hormonal times.                Tell me more!      I was one of the first in my friend group to have a kid, and the first to have a girl. My notes and crazy research came in handy for all my friends who got pregnant after me. As their parenthood journeys went on, I would send novels through text and email with all sorts of tips, tricks, and funny moments. And, let's be honest, the REAL moments are breastfeeding with your cracked nipples and crying because your vagina hurts so bad going pee feels like an olympic sport. A huge part of who I am revolves around food. I love how food has the ability to bring people together, heal and put a smile on someone's face. I have worked two or more jobs for most of my adult life so juggling work and life has not always left time for working out, this required me to eat healthy with the exception of my very big sweet tooth (Life is not worth living without dessert). Being pregnant doing a global pandemic really kicked my healthy eating up a notch. Then trying to get pregnant right away with my second, this made me work on new recipes and tweaking old ones to make them approved by my little, my husband and my ever changing body.  You might be wondering why a blog, why now, how do I have time?: Well the simple of it is about 8 years ago I asked my now husband if he could write an app for me where I could store and share my recipes. My then childhood friend thought I was crazy and said to just use pinterest… fast forward 10 years well honey I now have a blog, pinterest and an instagram ( follow me for updates :) and I don't just share my recipes, but also my opinions and of course my “because you deserve it” sweet treats. I figured if I'm sharing with friends why not share with all of you, this is my real time journey through motherhood. The good, the bad,  the oops  moments. I am the stay at home mom who is never alone but still feels lonely, I am the mom who hasn't showered in 4 days and hasn't had a full night's sleep in 4 years who is fully in the trenches with you. As beautiful as motherhood is, it is also really hard and I want to be that fellow parent who can tell other parents you are not alone, you are not crazy and you matter.         Posts by {{page. title}}:       {% assign posts = site. posts | where: author , koalamama  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}   Buy me a coffee"
     }, {
     "id": 5,
-    "url": "https://www.babyblackbox.com/authors-list.html",
+    "url": "https://www.babyblackbox.com/authors/list",
     "title": "Authors",
     "body": "  {{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                         {% if author[1]. instagram %} &nbsp;{% endif %}      {% if author[1]. pinterest %} &nbsp;{% endif %}      {% if author[1]. twitter %} &nbsp;{% endif %}      {% if author[1]. site %} &nbsp;{% endif %}                                    {% endfor %}    Support Us!:   Buy me a coffee"
     }, {
@@ -452,7 +452,7 @@ function lunr_search(term) {
     <div class="col-md-4">
         <!-- <a target="_blank" href="https://koalahealth.org/" class="btn btn-warning d-block mb-2"><i class="fa fa-file"></i> Documentation</a> -->
 
-<a target="_blank" class="btn btn-warning d-block" href="https://www.buymeacoffee.com/KoalaCo"><img src="assets/images/coffee.png" alt="cup of coffee image" width="auto" height="24" /> Buy me a coffee</a>
+<a target="_blank" class="btn btn-warning d-block" href="https://www.buymeacoffee.com/KoalaCo"><img src="/assets/images/coffee.png" alt="cup of coffee image" width="auto" height="24" /> Buy me a coffee</a>
     </div>
 </div>  
 </div>
