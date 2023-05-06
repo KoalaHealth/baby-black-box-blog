@@ -15,6 +15,8 @@ These are nutrition-rich waffles that are friendly for toddlers and perfect for 
 
 ### Ingredients
 
+<a href="https://www.amazon.com/hz/wishlist/ls/NYKCB9IO4YL0?&linkCode=ll2&tag=koalaco-20&linkId=56982c68ccb3b27a8e395d0b369ece63&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
+
 - 2 cups rolled oats
 - 6 eggs
 - 2 cups cottage cheese
@@ -29,3 +31,8 @@ These are nutrition-rich waffles that are friendly for toddlers and perfect for 
 
 ### Recipe notes:
 - They are a dense waffle because they're packed with protein and oats. On their own they are a little bland because there is no sugar in them, so that is where the toppings come in (peanut or nut butter, fruit, or even savory with butter and an extra fried egg or bacon).
+
+
+### Quick Links:
+
+<a href="https://www.amazon.com/hz/wishlist/ls/NYKCB9IO4YL0?&linkCode=ll2&tag=koalaco-20&linkId=56982c68ccb3b27a8e395d0b369ece63&language=en_US&ref_=as_li_ss_tl">Grocery List</a>

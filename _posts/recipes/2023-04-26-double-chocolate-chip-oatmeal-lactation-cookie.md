@@ -17,10 +17,12 @@ They are perfect to satisfy a chocolate craving or the midnight boost you need a
 
 ### Ingredients
 
+<a href="https://www.amazon.com/hz/wishlist/ls/3MELVX4S77MGI?&linkCode=ll2&tag=koalaco-20&linkId=601b9c2d3c6481261e2e5fd2a90b686b&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a>
+
 - 2 tablespoons ground flax seed
 - 3 tablespoons water
-- ½ cup coconut oil ( melted or softened)
-- ¼ cup maple syrup ( room temperature)
+- ½ cup coconut oil (melted or softened)
+- ¼ cup maple syrup (room temperature)
 - 2 eggs (room temperature)
 - 1 teaspoon vanilla
 - 1½ cups all purpose flour
@@ -52,10 +54,6 @@ They are perfect to satisfy a chocolate craving or the midnight boost you need a
 
 
 
-Quick link:
-Ground flaxseed
-www.amazon.com/Spect...sr=8-5
- Brewers yeast
-www.amazon.com/Best-...r=8-14
-Cocoa power
-www.amazon.com/Antho...sr=8-3
+### Quick link:
+
+<a href="https://www.amazon.com/hz/wishlist/ls/3MELVX4S77MGI?&linkCode=ll2&tag=koalaco-20&linkId=601b9c2d3c6481261e2e5fd2a90b686b&language=en_US&ref_=as_li_ss_tl">Grocery List</a>
