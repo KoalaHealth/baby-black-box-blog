@@ -4,7 +4,7 @@ title:  "Lactation Oatmeal Cookies"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/lactation-oatmeal-cookie.jpg
-tags: [sticky, featured]
+tags: [featured]
 date: 2023-04-01
 published: true
 excerpt: "Healthy oatmeal cookies to support healthy breastfeeding."
