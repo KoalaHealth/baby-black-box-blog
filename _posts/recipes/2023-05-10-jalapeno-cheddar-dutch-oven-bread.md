@@ -9,6 +9,7 @@ date: 2023-05-10
 published: true
 excerpt: "Jalapeño Cheddar Bread is a family favorite! Pairs well with pesto!"
 ---
+{% assign author = site.authors[page.author] %}
 
 My family can eat an entire loaf of this jalapeño cheddar bread in a single day. This bread is the perfect mixture of a crunchy outside with a soft and fluffy inside. 
 
