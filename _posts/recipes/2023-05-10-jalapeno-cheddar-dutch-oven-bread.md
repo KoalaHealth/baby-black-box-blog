@@ -19,26 +19,22 @@ My family can eat an entire loaf of this jalapeño cheddar bread in a single day
 <!-- <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/NYKCB9IO4YL0?&linkCode=ll2&tag=koalaco-20&linkId=56982c68ccb3b27a8e395d0b369ece63&language=en_US&ref_=as_li_ss_tl">Convenient Amazon Grocery List</a> -->
 
 ##### In a medium mixing bowl: 
-
 - 3 1/2 cups bread flour or all purpose flour  
 - 1 1/2 tsps kosher salt
 - 2 cups shredded cheddar cheese
 - 1 large jalapeños, diced 
 
 ##### In a large mixing bowl:
-
 - 2 cups warm water
 - 2 1/4 tsps instant yeast (1 standard 0.25oz packet)
 
-#### Save for the top: 
-
+##### Save for the top: 
 - 1/3 - 1/2 cup shredded cheddar
 - 10 round slices jalapeno (or more, to taste)
 
 
 
 ### Directions
-
 1. To a medium mixing bowl, add bread flour, salt, 2 cups cheddar cheese, and diced jalapeños. Stir and set aside.
 2. To a large mixing bowl (pretty large - your bread will be rising in this bowl), add the warm water and yeast. Water should be warm, not hot (like a baby's bath water). Add flour mixture to the yeast and water, using a rubber spatula to stir it all together until no flour streaks remain.
 3. Use spatula to fold the dough from the outside of the bowl towards the center, turning the bowl a little each time, until you've folded the dough in on itself 8-10 times.
@@ -59,7 +55,6 @@ My family can eat an entire loaf of this jalapeño cheddar bread in a single day
 
 
 ### Recipe notes:
-
 - All purpose flour may be used instead of bread flour, but may result in a denser loaf.
 - Canned or jarred jalapenos may be used instead of fresh.
 - Active dry yeast may be used instead of instant, but when you add the yeast to the warm water, you want to stir to dissolve it and let it sit a few minutes before adding the flour mixture.

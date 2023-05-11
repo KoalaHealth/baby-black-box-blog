@@ -15,7 +15,7 @@ Disclaimer- I am a conservative person when it comes to sharing my financial inf
 **Ibotta** - cash back by scanning your receipt. I normally look through the app to see what they have cash back on and if they have any free/heavily discounted items. The thing I love about this app is once you go shopping you scan your receipt and your savings will be added to your account.  My little loves fruits and Daves jail bread ibotta often has $.20 or more back on any strawberry or blueberry purchese with $1.50 to $2 off jail bread. I can often stack both those offers on top of their $.10 back on any receipt scanned coupon. last summer Ibotta had free oat milk which I do not give my little to drink but I do use it to cook with when I make her homemade oat bars. Once you reach $20 in savings you can trade it out for gift cards or transfer it to your bank account. If you use my link below to sign up and scan your first savings you will get a referral bonus loaded to your account. 
 
 
-**Think bigger**: Jan 2022 ibotta had 2% off Safeway receipts and Chase bank had 5% back on grocery stores so you could stack and receive 7% back on your Safeway purchase (some exclusions of course). 
+**Incremental Saving is <u>Great</u>**: Jan 2022 ibotta had 2% off Safeway receipts and Chase bank had 5% back on grocery stores so you could stack and receive 7% back on your Safeway purchase (some exclusions of course). 
 
 
 Use my referral code `kpbchie` at registration. Sign up via the ibotta app and get a $5 referral bonus 
@@ -26,7 +26,7 @@ Use my referral code `kpbchie` at registration. Sign up via the ibotta app and g
 Use my link and receive a referral bonus when you complete your first shop through experience. 
 
 
-https://www.rakuten.com/r/MAYAKO63?eeid=44749
+<a href="https://www.rakuten.com/r/MAYAKO63?eeid=44749">My Rakuten Referral Link</a>
 
 
 **Honey** -  is similar to rakuten in the form that you shop through their platform, but it also helps you look for coupons and deals that can be added to your cart. What is nice about honey is you can add an extension to your browser so discounts will pop up as you shop. 
