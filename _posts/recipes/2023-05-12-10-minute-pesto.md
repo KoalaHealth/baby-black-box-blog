@@ -17,7 +17,7 @@ The ways I use the pesto:
 
 - over pasta (of course)
 - on chicken
-- as a salty, herbaceous spread in one of my jalapeño cheese bread sandwiches (I'm writing it up now!  Stay tuned...).
+- as a salty, herbaceous spread in one of my jalapeño cheese bread sandwiches (<a href="{{site.baseurl}}/jalapeno-cheddar-dutch-oven-bread">recipe here</a>).
 
 
 ### Ingredients
