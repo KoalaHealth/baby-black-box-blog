@@ -4,7 +4,7 @@ title:  "Jalapeño Cheddar Dutch Oven Bread"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/jalapeno-cheddar-bread.jpg
-tags: [sticky]
+tags: []
 date: 2023-05-10
 published: true
 excerpt: "Jalapeño Cheddar Bread is a family favorite! Pairs well with pesto!"
