@@ -6,7 +6,7 @@ categories: [ "new parent", "first time parent", "parent" ]
 image: https://images.unsplash.com/photo-1613486858201-cbd64bb575fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
 published: true
 date: 2023-05-14
-excerpt: 'Parenting is hard. Sharing is scary. <i>Baby Black Box</i> is where real parents record their stories as they happen "mid-flight" parenthood.'
+excerpt: 'Keep your vitamin D close.  Keep your children closer.'
 ---
 
 If I thought remembering Vitamin D drops for <a href="{{site.baseurl}}/vitamin-d-drops">my first was hard</a>, it was eeeven harder adding my second child. My attention was so split with two. As they say, “out of sight, out of mind.” Keeping it in the medicine cabinet was just not going to work. But I couldn’t put it too close where sticky baby fingers can go.
