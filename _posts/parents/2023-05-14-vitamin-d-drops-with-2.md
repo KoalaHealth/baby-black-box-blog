@@ -5,7 +5,7 @@ author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
 image: assets/images/baby-black-box-logo.png
 published: true
-date: 2023-12-02
+date: 2023-05-14
 excerpt: 'Parenting is hard. Sharing is scary. <i>Baby Black Box</i> is where real parents record their stories as they happen "mid-flight" parenthood.'
 ---
 
