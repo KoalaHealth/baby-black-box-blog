@@ -1,5 +1,5 @@
 # File: .github/workflows/scheduled-recompile.yml
-name: Refresh
+name: Scheduled Recompile
 
 on:
   schedule:
