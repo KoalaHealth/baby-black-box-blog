@@ -17,9 +17,9 @@ layout: default
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<div class="d-flex align-items-center">
                         {% if author.avatar %}
-                        <a href="{{site.baseurl}}/author-{{author.name | replace:' ', '-' | downcase}}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/></a>
+                        <a href="{{site.baseurl}}/authors/{{author.name | replace:' ', '-' | downcase}}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/></a>
                         {% endif %}
-						<small class="ml-3"> <a href="{{site.baseurl}}/author-{{author.name | replace:' ', '-' | downcase}}">{{ author.name }}</a> <span><a target="_blank" href="{{ author.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>{% if author.pinterest %}  <a target="_blank" href="{{ author.pinterest }}"><i class="fab fa-pinterest text-muted" aria-hidden="true"></i></a>{% endif %}  &nbsp;<a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+						<small class="ml-3"> <a href="{{site.baseurl}}/authors/{{author.name | replace:' ', '-' | downcase}}">{{ author.name }}</a> <span><a target="_blank" href="{{ author.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>{% if author.pinterest %}  <a target="_blank" href="{{ author.pinterest }}"><i class="fab fa-pinterest text-muted" aria-hidden="true"></i></a>{% endif %}  &nbsp;<a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
