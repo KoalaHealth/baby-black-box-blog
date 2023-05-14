@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Happy Mothers Day"
+title:  "Happy Mother's Day"
 author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
 image: https://images.pexels.com/photos/2072160/pexels-photo-2072160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-tags: []
+tags: [sticky]
 published: true
 date: 2023-05-14
-excerpt: 'Happy Mother's Day to all the wonderful mothers!'
+excerpt: "Happy Mother's Day to all the wonderful mothers!"
 ---
 
 Dear Mama, 
