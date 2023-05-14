@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy Mothers Day!"
+title:  "Happy Mothers Day"
 author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
 image: https://images.pexels.com/photos/2072160/pexels-photo-2072160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
