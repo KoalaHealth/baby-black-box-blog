@@ -15,6 +15,6 @@ My older toddler is mimicking but thinks he is biting. We've been lightly reprim
 
 I had my 6 month old on my lap and my toddler was playing with him. A total sweet angel of an older sister. I looked away for a moment and CHOMP. My little dinosaur of a daughter tried to bite off her brother's finger. The poor little guy let out a blood curdling scream and looked at me with the "you-betrayed-me" face.
 
-Again, my Mama guilt came over me. My poor sweet baby body did nothing! You could see the signs of my daughter's betrayal - a perfect bite mark on his tiny little finger.
+Again, my Mama guilt came over me. My poor sweet baby boy did nothing! You could see the signs of my daughter's betrayal - a perfect bite mark on his tiny little finger.
 
 Any other moms have guilt biting stories? I am in going through it!
