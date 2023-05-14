@@ -88,11 +88,11 @@ layout: default
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
                          {% if author.avatar %}
-                        <a href="{{site.baseurl}}/author-{{author.name | replace:' ', '-' | downcase}}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/></a>
+                        <a href="{{site.baseurl}}/authors/{{author.name | replace:' ', '-' | downcase}}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/></a>
                         {% endif %} 
 					</div>
 					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by <a href="{{site.baseurl}}/author-{{author.name | replace:' ', '-' | downcase}}">{{ author.name }}</a> <a target="_blank" href="{{ author.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>{% if author.pinterest %}    <a target="_blank" href="{{ author.pinterest }}"><i class="fab fa-pinterest text-muted" aria-hidden="true"></i></a>{% endif %}{% if author.twitter %}<span><a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
+                        <h5 class="font-weight-bold">Written by <a href="{{site.baseurl}}/authors/{{author.name | replace:' ', '-' | downcase}}">{{ author.name }}</a> <a target="_blank" href="{{ author.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>{% if author.pinterest %}    <a target="_blank" href="{{ author.pinterest }}"><i class="fab fa-pinterest text-muted" aria-hidden="true"></i></a>{% endif %}{% if author.twitter %}<span><a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
 						{{ author.bio }}					
 					</div>
 				</div>				
