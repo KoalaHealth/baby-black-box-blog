@@ -28,7 +28,7 @@ Hope your little one enjoys it!
 - 1/2 tsp Vanilla
 
 
-#### **Notes
+#### **Notes**
 You can make your own:
 
 - **Prune purée** by placing 6-8 prunes in 1/2 cup of boiling hot water. Let prunes and water sit for about 20 minutes then blend in blender or use immersion blender. 
