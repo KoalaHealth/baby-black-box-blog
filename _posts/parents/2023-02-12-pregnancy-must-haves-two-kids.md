@@ -21,7 +21,7 @@ Here is a list I put together of the things I personally used or needed through 
 - Running maternity shorts*
 - Maternity leggings  
 - Butt pillow** 
-- To eat: 
+- *To eat:*
     - Ginger chews - hello morning sickness 
     - Crackers/ granola bars
  
@@ -33,7 +33,7 @@ Here is a list I put together of the things I personally used or needed through 
 - Stretch mark cream 
 - Good water bottle with a straw and handle 
 - Pregnancy pillow - long one***
-- To Eat:
+- *To eat:*
     - 6 dates a day - not if you have blood sugar issues 
     - Prunes - if you are feeling backed up. 
 
@@ -45,4 +45,4 @@ Here is a list I put together of the things I personally used or needed through 
 - Stuff for your hospital bag, if you need any. 
 - Start perineal massage 
 
-Come back and let me know if you find this list helpful! 
+Come back and let me know if you find this list helpful or have questions!
