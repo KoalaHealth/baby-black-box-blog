@@ -3,7 +3,7 @@ layout: recipe
 title:  "10-Minute Garlic & Spinach Pesto"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
-image: assets/images/20230512-pesto.jpg
+image: assets/images/garlic-and-spinach-pesto.jpg
 tags: []
 date: 2023-05-12
 published: true
