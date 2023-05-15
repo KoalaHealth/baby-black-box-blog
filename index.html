@@ -168,18 +168,30 @@ description: "Baby Black Box - An honest insight for new and veteran parents."
     </div>
    
     <div class="col-md-8 main-loop">
-        
-        <h4 class="font-weight-bold spanborder"><span>Recipes</span></h4>
+        {% if paginator.page == 1 %}
+        <!-- if this is the first index page, show all posts -->
+        <h4 class="font-weight-bold spanborder"><span><a class="text-dark" href="{{site.baseurl}}/topics/recipes">Recipes</a></span></h4>
+        {% assign maxPost = 5 %}
+        {% assign counter = 0 %}
         {% for post in site.categories.recipe %}
             {% include recipe-loop-card.html %}
+            {% assign counter = counter | plus: 1 %}
+            {% if counter == maxPost %}
+                {% break %} {% comment %}exit the for loop{% endcomment %}
+            {% endif %}
         {% endfor %}
 
-        {% for post in paginator.posts.recipes %}
 
-            {% include recipe-loop-card.html %}
-        
+        {% else %}
+        <!-- if this is not the first pagination page, show all posts instead of recipes here -->
+        <h4 class="font-weight-bold spanborder"><span>All Posts</span></h4>
+        {% for post in paginator.posts %}
+            {% if post.categories contains "recipe" %}
+            {% else %}
+                {% include main-loop-card.html %}
+            {% endif %}
         {% endfor %}
-        
+        {% endif %}
     </div>
     
 </div>
@@ -191,17 +203,17 @@ description: "Baby Black Box - An honest insight for new and veteran parents."
    
     <div class="col-md-12 main-loop">
         
+        {% if paginator.page == 1 %}
+        <!-- if this is the first index page, show all posts -->
         <h4 class="font-weight-bold spanborder"><span>All Posts</span></h4>
-        
 
         {% for post in paginator.posts %}
-
             {% if post.categories contains "recipe" %}
             {% else %}
                 {% include main-loop-card.html %}
             {% endif %}
-
         {% endfor %}
+        {% endif %}
         
         <div class="mt-5">
          <!-- Pagination links -->
