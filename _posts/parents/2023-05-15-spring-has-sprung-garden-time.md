@@ -30,7 +30,7 @@ This year, we are focusing on less variety but more plants we know we can grow.
 **Plants I have and highly recommend:**
 - Basil 
 - Cherry Tomatoes 
-- Jalapeños ( we love spice and you can harvest the seeds from one you buy in the store) 
-- Edible flowers( new this year) 
+- Jalapeños (we love spice and you can harvest the seeds from one you buy in the store - let me know if you need help!)
+- Edible flowers (new this year) 
 
 Happy gardening everyone! I would love to hear your gardening stories, if this inspires you!
