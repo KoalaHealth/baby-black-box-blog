@@ -30,7 +30,7 @@ You have guided me through the reorganization of priorities and helped me not st
 
 You have been there to pick up every phone call, to talk me through tough moments, to be my biggest cheerleader and supporter. As a Wonder Woman, you have not only done all these things for me but you have extended your unconditional love to my kids and my husband. 
 
-Mama’s come in so many different ways, some you birth you, some say goodbye too soon, some adopt you, and some support you. Most of all, all moms must choose to love you. 
+Mama’s come in so many different ways, some you birth, some say goodbye too soon, some adopt you, and some support you. Most of all, all moms must choose to love you. 
 
 
 Thank you for choosing to be a mom to me! 
