@@ -1,6 +1,6 @@
 # File: .github/workflows/scheduled-recompile.yml
 # Scheduled cron jobs only work on the main branch for security reasons on Github.
-name: Scheduled Recompile
+name: scheduled-recompile
 
 on:
   schedule:
