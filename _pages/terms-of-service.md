@@ -1,6 +1,6 @@
 ---
-title: "Privacy Policy"
-permalink: "/privacy"
+title: "Terms of Service"
+permalink: "/terms"
 ---
 
 Effective as of January 01, 2023
