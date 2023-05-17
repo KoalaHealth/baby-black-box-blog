@@ -4,7 +4,7 @@ permalink: "/contact"
 ---
 {% if site.smartforms_endpoint %}
 <form action="{{ site.smartforms_endpoint }}" method="POST">    
-    <p class="mb-4">Whether you are a parent or partner, we want to hear from you!  Send us your requests, questions, suggestions, and feedback!</p>
+    <p class="mb-4">Whether you are a parent or partner, we want to hear from you!  Send us your requests, questions, suggestions, feedback, or even your own real parent stories!</p>
     <div class="form-group row">
         <div class="col-md-6">
         <input class="form-control" type="text" name="name" placeholder="Name*" required>
@@ -19,7 +19,7 @@ permalink: "/contact"
 {% elsif site.formspree_endpoint %}
 
 <form action="{{ site.formspree_endpoint }}" method="POST">    
-    <p class="mb-4">Whether you are a parent or partner, we want to hear from you!  Send us your requests, questions, suggestions, and feedback!</p>
+    <p class="mb-4">Whether you are a parent or partner, we want to hear from you!  Send us your requests, questions, suggestions, or even your own real parent stories!</p>
     <div class="form-group row">
         <div class="col-md-6">
         <input class="form-control" type="text" name="name" placeholder="Name*" required>
