@@ -2,7 +2,7 @@
 layout: post
 title:  "Vitamin D Drops with 2 Under 2"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: https://images.unsplash.com/photo-1613486858201-cbd64bb575fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
 published: true
 date: 2023-03-01

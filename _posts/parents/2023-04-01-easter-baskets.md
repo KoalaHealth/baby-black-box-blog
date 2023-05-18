@@ -2,7 +2,7 @@
 layout: post
 title:  "Easter Basket Ideas"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: assets/images/easter-basket-2023.jpg
 published: true
 date: 2023-04-01

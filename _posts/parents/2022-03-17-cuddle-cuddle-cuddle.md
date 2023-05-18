@@ -2,7 +2,7 @@
 layout: post
 title:  "Cuddle Cuddle Cuddle"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: https://images.unsplash.com/photo-1450778869180-41d0601e046e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1586&q=80
 published: true
 date: 2022-03-17

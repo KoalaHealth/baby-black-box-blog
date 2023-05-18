@@ -2,7 +2,7 @@
 layout: post
 title:  "Oops That Just Happened...Garden Edition!"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: https://images.pexels.com/photos/5624229/pexels-photo-5624229.jpeg
 published: true
 date: 2021-07-11

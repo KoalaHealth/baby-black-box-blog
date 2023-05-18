@@ -2,7 +2,7 @@
 layout: post
 title:  "Infant Iron Levels"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: assets/images/baby-black-box-logo.png
 published: true
 date: 2022-04-13

@@ -2,7 +2,7 @@
 layout: post
 title:  "Oops That Just Happened...Toddler Bites!"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: https://images.pexels.com/photos/2072162/pexels-photo-2072162.jpeg
 published: true
 date: 2023-04-04

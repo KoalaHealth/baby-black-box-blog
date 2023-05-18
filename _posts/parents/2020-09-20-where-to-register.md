@@ -2,7 +2,7 @@
 layout: post
 title:  "Where to Register to Get Baby Samples and Discounts"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: assets/images/baby-registries.png
 published: true
 date: 2020-09-22

@@ -2,7 +2,7 @@
 layout: post
 title:  "No One Needs to Hold My Baby"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: https://images.unsplash.com/photo-1505497100-73ddb5317fa7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=melody-p-cSNumclQixw-unsplash.jpg
 published: true
 date: 2023-04-29

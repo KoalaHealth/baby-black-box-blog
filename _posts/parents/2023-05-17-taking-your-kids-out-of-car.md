@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Your Kids Safely Out of the Car"
 author: koalamama
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: assets/images/woman-walking-after-daughter.jpg
 published: true
 date: 2023-05-17

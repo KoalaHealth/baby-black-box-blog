@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preparing with a Labor Plan"
-categories: [ "new parent", "first time parent", "parent" ]
+categories: [ "first time parent", "parent" ]
 image: assets/images/baby-black-box-logo.png
 published: false
 date: 2020-01-01
