@@ -13,6 +13,10 @@ smartforms_endpoint: 'https://smartforms.dev/submit/64645f3f0dd8ac0a53206132'
 # disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
+banner_posts: [
+  "10-Minute Garlic & Spinach Pesto",
+]
+
 # Analytics
 google_analytics: 'G-GZ087LECC1'
 microsoft_clarity: 'gt5f0pv248'
@@ -57,7 +61,6 @@ defaults:
       layout: post
       author: Koala Mama
       avatar: /assets/images/author.png
-
 
   # only recipes posts
   - scope:
