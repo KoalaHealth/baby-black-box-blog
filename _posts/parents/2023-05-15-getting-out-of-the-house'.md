@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Out of the House with a Newborn and Toddler"
 author: koalamama
 categories: [ parent ]
-image: https://images.pexels.com/photos/1919030/pexels-photo-1919030.jpeg
+image: assets/images/girl-playing-with-bubbles.jpg
 tags: []
 date: 2023-05-15
 published: true

@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Your Kids Safely Out of the Car"
 author: koalamama
 categories: [ "new parent", "first time parent", "parent" ]
-image: https://images.pexels.com/photos/9264538/pexels-photo-9264538.jpeg
+image: assets/images/woman-walking-after-daughter.jpg
 published: true
 date: 2023-05-17
 excerpt: "Toddlers are runners. Two kids are harder. Here are 3 tips to make sure they don't get away."
