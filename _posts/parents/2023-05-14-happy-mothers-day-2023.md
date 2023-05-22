@@ -3,7 +3,7 @@ layout: post
 title:  "Happy Mother's Day"
 author: koalamama
 categories: [ "first time parent", "parent" ]
-image: https://images.pexels.com/photos/2072160/pexels-photo-2072160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+image: assets/images/happy-mothers-day.jpg
 tags: []
 published: true
 date: 2023-05-14

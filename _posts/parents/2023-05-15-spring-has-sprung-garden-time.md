@@ -3,7 +3,7 @@ layout: post
 title:  "Spring Has Sprung! Time to Garden!"
 author: koalamama
 categories: [ "first time parent", "parent" ]
-image: https://images.pexels.com/photos/1134062/pexels-photo-1134062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+image: assets/images/girl-watering-plants.jpg
 published: true
 date: 2023-05-15
 excerpt: "Try a little gardening!  It's a great opportunity to learn with your kids."
