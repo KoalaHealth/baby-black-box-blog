@@ -7,7 +7,7 @@ image: assets/images/girl-playing-with-bubbles.jpg
 tags: []
 date: 2023-05-15
 published: true
-excerpt: "A"
+excerpt: "The outdoors are better behaved spending time outside daily."
 ---
 
 My family loves to be outside. I mean they *really* love it! Every day, and often twice a day, my daughter puts on her socks, shoes, and jacket, comes over to me and my husband singing "go, go, go." So, we go out once or twice a day. Even when I am sleep-deprived from my newborn son, we "go." 
