@@ -5,7 +5,7 @@ author: koalamama
 categories: [ recipe ]
 image: assets/images/cheese-crackers.png
 tags: [sticky, featured]
-date: 2023-05-21
+date: 2023-05-22
 published: true
 excerpt: "Cheese Crackers (homemade cheez-its) made with ingredients you know."
 ---
