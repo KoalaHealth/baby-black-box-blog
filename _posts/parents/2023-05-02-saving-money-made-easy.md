@@ -26,7 +26,7 @@ Use my referral code `kpbchie` at registration. Sign up via the ibotta app and g
 Use my link and receive a referral bonus when you complete your first shop through experience. 
 
 
-<a href="https://www.rakuten.com/r/MAYAKO63?eeid=44749">My Rakuten Referral Link</a>
+<a target="_blank" href="https://www.rakuten.com/r/MAYAKO63?eeid=44749">My Rakuten Referral Link</a>
 
 
 **Honey** -  is similar to rakuten in the form that you shop through their platform, but it also helps you look for coupons and deals that can be added to your cart. What is nice about honey is you can add an extension to your browser so discounts will pop up as you shop. 
