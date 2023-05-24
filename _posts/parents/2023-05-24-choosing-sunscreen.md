@@ -44,7 +44,7 @@ From my research, I have learned not all sunscreen is created equal.  High SPF d
 
 
 
-<h3 id="mypick">My Top Pick:</h3>
+<h3 id="mypick">My Top Picks:</h3>
 
 <div id="babo" class="d-inline-block align-top">
     <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B07NJPR4TN&asins=B07NJPR4TN&linkId=a78201c448ddd8d1afab14c5c204d9e1&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -53,6 +53,15 @@ From my research, I have learned not all sunscreen is created equal.  High SPF d
     <a target="_blank" href="https://www.amazon.com/dp/B07NJPR4TN?&linkCode=ll1&tag=koalaco-20&linkId=f8a8805c05b2b918cddc3c716741cec3&language=en_US&ref_=as_li_ss_tl"><u>SPF 50, Broad Spectrum, Fragrance-Free, Water-Resistant</u>,<br />Babo Botanicals Baby Skin Mineral Sunscreen Lotion</a>
     
     I like this lotion because it's SPF 50, water-resistant, no smell, and all the claims were verified by a professional organization - not the company themselves.
+</div>
+
+<div class="d-inline-block align-top">
+    <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B06XZ7VSD6&asins=B06XZ7VSD6&linkId=dfc11676d61fb09ebaa4ffce6e0525f5&show_border=true&link_opens_in_new_window=true"></iframe>
+</div>
+<div class="d-inline-block align-top">
+    <a target="_blank" href="https://www.amazon.com/dp/B06XZ7VSD6?&linkCode=ll1&tag=koalaco-20&linkId=da40f68e3a379d1c666a3c8e1a51496a&language=en_US&ref_=as_li_ss_tl"><u>SPF 50, Broad Spectrum, Coral Reef Friendly, Unscented, Water-Resistant</u>,<br />All Good Baby & Kids Mineral Sunscreen Butter Stick</a>
+    
+    I like this lotion because it's SPF 50, water-resistant, snorkeling/diving safe, unscented, stick, and all the claims were reviewed by a professional organization - not the company themselves.
 </div>
 
 <h3>Honorable Mention:</h3>
