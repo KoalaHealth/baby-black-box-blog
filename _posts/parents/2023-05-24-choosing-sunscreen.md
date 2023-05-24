@@ -46,33 +46,46 @@ From my research, I have learned not all sunscreen is created equal.  High SPF d
 
 <h3 id="mypick">My Top Picks:</h3>
 
-<div id="babo" class="d-inline-block align-top">
-    <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B07NJPR4TN&asins=B07NJPR4TN&linkId=a78201c448ddd8d1afab14c5c204d9e1&show_border=true&link_opens_in_new_window=true"></iframe>
-</div>
-<div class="d-inline-block align-top">
-    <a target="_blank" href="https://www.amazon.com/dp/B07NJPR4TN?&linkCode=ll1&tag=koalaco-20&linkId=f8a8805c05b2b918cddc3c716741cec3&language=en_US&ref_=as_li_ss_tl"><u>SPF 50, Broad Spectrum, Fragrance-Free, Water-Resistant</u>,<br />Babo Botanicals Baby Skin Mineral Sunscreen Lotion</a>
-    
-    I like this lotion because it's SPF 50, water-resistant, no smell, and all the claims were verified by a professional organization - not the company themselves.
+<div class="row ml-auto mr-auto">
+    <div id="babo" class="d-inline-block align-top">
+        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B07NJPR4TN&asins=B07NJPR4TN&linkId=a78201c448ddd8d1afab14c5c204d9e1&show_border=true&link_opens_in_new_window=true"></iframe>
+    </div>
+    <div class="col-md-9">
+        <div class="d-inline-block align-top">
+            <a target="_blank" href="https://www.amazon.com/dp/B07NJPR4TN?&linkCode=ll1&tag=koalaco-20&linkId=f8a8805c05b2b918cddc3c716741cec3&language=en_US&ref_=as_li_ss_tl"><u>SPF 50, Broad Spectrum, Fragrance-Free, Water-Resistant</u>,<br />Babo Botanicals Baby Skin Mineral Sunscreen Lotion</a>
+            <p>I like this lotion because it's SPF 50, water-resistant, no smell, and all the claims were verified by a professional organization - not the company themselves.</p>
+        </div>
+    </div>
 </div>
 
-<div class="d-inline-block align-top">
-    <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B06XZ7VSD6&asins=B06XZ7VSD6&linkId=dfc11676d61fb09ebaa4ffce6e0525f5&show_border=true&link_opens_in_new_window=true"></iframe>
-</div>
-<div class="d-inline-block align-top">
-    <a target="_blank" href="https://www.amazon.com/dp/B06XZ7VSD6?&linkCode=ll1&tag=koalaco-20&linkId=da40f68e3a379d1c666a3c8e1a51496a&language=en_US&ref_=as_li_ss_tl"><u>SPF 50, Broad Spectrum, Coral Reef Friendly, Unscented, Water-Resistant</u>,<br />All Good Baby & Kids Mineral Sunscreen Butter Stick</a>
-    
-    I like this lotion because it's SPF 50, water-resistant, snorkeling/diving safe, unscented, stick, and all the claims were reviewed by a professional organization - not the company themselves.
+<div class="row ml-auto mr-auto mt-5">
+    <div class="d-inline-block align-top">
+        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B06XZ7VSD6&asins=B06XZ7VSD6&linkId=dfc11676d61fb09ebaa4ffce6e0525f5&show_border=true&link_opens_in_new_window=true"></iframe>
+    </div>
+    <div class="col-md-9">
+        <div class="d-inline-block align-top">
+            <a target="_blank" href="https://www.amazon.com/dp/B06XZ7VSD6?&linkCode=ll1&tag=koalaco-20&linkId=da40f68e3a379d1c666a3c8e1a51496a&language=en_US&ref_=as_li_ss_tl"><u>SPF 50, Broad Spectrum, Coral Reef Friendly, Unscented, Water-Resistant</u>,<br />All Good Baby & Kids Mineral Sunscreen Butter Stick</a>
+            <p>
+            I like this lotion because it's SPF 50, water-resistant, snorkeling/diving safe, unscented, stick, and all the claims were reviewed by a professional organization - not the company themselves.
+            </p>
+        </div>
+    </div>
 </div>
 
 <h3>Honorable Mention:</h3>
-**This one is WAY TOO EXPENSIVE**, but it's a roll-on stick, which is usually much easier with kids.  The major problem with this is the packaging.  Have you ever had that stick of deodorant that keeps on turtling back into the container.  Similar thing happens with this package.
-<div class="d-inline-block align-top">
-    <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B0B19GTMQL&asins=B0B19GTMQL&linkId=04dfd5d75467c1c10ef546228d2a031a&show_border=true&link_opens_in_new_window=true"></iframe>
-</div>
-<div class="d-inline-block align-top">
-    <a target="_blank" href="https://www.amazon.com/ATTITUDE-Sunscreen-Mineral-Based-Cruelty-free-Unscented/dp/B0B19GTMQL?&linkCode=ll1&tag=koalaco-20&linkId=2fdf74de0bb0dc1fd1898dfdd39e7c11&language=en_US&ref_=as_li_ss_tl"><u>SPF 30, Broad Spectrum, Fragrance-Free, Coral Reef Friendly, Stick</u>,<br />ATTITUDE Sunscreen</a>
-    
-    I like this sunscreen stick because it's SPF 30, scuba-friendly, a stick, and all the claims were verified by a professional organization - not the company themselves.  But, $30 for 1 Oz stick that has annoying packaging.  I recommend the <a href="{{page.url}}#babo">Babo</a>.
+This is a roll-on stick with verified data from a professional third-party organization, but **it is WAY TOO EXPENSIVE**.  On top of paying a nugget for 1 oz, the major problem with this is the packaging.  Have you ever had that stick of deodorant that keeps on turtling back into the container when it's being applied?  Similar thing happens with this package.
+<div class="row ml-auto mr-auto">
+    <div class="d-inline-block align-top">
+        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=koalaco-20&language=en_US&marketplace=amazon&region=US&placement=B0B19GTMQL&asins=B0B19GTMQL&linkId=04dfd5d75467c1c10ef546228d2a031a&show_border=true&link_opens_in_new_window=true"></iframe>
+    </div>
+    <div class="col-md-9">
+        <div class="d-inline-block align-top">
+            <a target="_blank" href="https://www.amazon.com/ATTITUDE-Sunscreen-Mineral-Based-Cruelty-free-Unscented/dp/B0B19GTMQL?&linkCode=ll1&tag=koalaco-20&linkId=2fdf74de0bb0dc1fd1898dfdd39e7c11&language=en_US&ref_=as_li_ss_tl"><u>SPF 30, Broad Spectrum, Fragrance-Free, Coral Reef Friendly, Stick</u>, ATTITUDE Sunscreen</a>
+            <p>
+            I like this sunscreen stick because it's SPF 30, scuba-friendly, a stick, and all the claims were verified by a professional organization - not the company themselves.  But, $30 for 1 Oz stick that has annoying packaging.  I recommend the <a href="{{page.url}}#babo">Babo</a>.
+            </p>
+        </div>
+    </div>
 </div>
 
 
