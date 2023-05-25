@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Going from One to Two"
+title:  "Going from 1 to 2: What Changed"
 author: koalamama
 categories: [ parent ]
 image: assets/images/7.jpg
-tags: [featured]
+tags: []
 excerpt: "How two is different than one."
 published: true
 date: 2021-09-30
