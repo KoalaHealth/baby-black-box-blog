@@ -5,7 +5,7 @@ author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/pulled-pork.jpg
 tags: [featured]
-date: 2023-05-26
+date: 2023-05-27
 published: true
 excerpt: "A crockpot garlic pulled pork recipe to feed a navy platoon."
 ---
