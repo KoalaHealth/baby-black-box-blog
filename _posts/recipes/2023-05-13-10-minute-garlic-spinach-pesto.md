@@ -4,7 +4,7 @@ title:  "10-Minute Garlic & Spinach Pesto"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/garlic-and-spinach-pesto.jpg
-tags: []
+tags: [featured]
 date: 2023-05-13
 published: true
 excerpt: "A quick and healthy pesto recipe. Baby-friendly, too!"

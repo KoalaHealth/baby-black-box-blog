@@ -2,7 +2,7 @@
 layout: post
 title:  "Going from 1 to 2: What Changed"
 author: koalamama
-categories: [ parent ]
+categories: [ parent, 'Going from 1 to 2' ]
 image: assets/images/7.jpg
 tags: []
 excerpt: "How two is different than one."

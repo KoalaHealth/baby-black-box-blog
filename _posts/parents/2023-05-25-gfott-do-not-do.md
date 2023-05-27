@@ -2,9 +2,9 @@
 layout: post
 title:  "Going from 1 to 2: Things I Absolutely Do Not Do"
 author: koalamama
-categories: [ parent ]
+categories: [ parent, 'Going from 1 to 2' ]
 image: assets/images/babywithfoxy.jpg
-tags: [featured]
+tags: []
 excerpt: "Having two is different than one.  There are things I just don't do now that I have a toddler around a newborn."
 published: true
 ---
