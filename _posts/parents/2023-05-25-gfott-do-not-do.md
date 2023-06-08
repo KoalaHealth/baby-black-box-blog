@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Going from 1 to 2: Things I Absolutely Do Not Do"
+title:  "Going From 1 To 2: Things I Absolutely Do Not Do"
 author: koalamama
 categories: [ parent, 'Going from 1 to 2' ]
 image: assets/images/babywithfoxy.jpg

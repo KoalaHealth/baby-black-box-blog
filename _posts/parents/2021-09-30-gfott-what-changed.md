@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Going from 1 to 2: What Changed"
+title:  "Going From 1 To 2: What Changed"
 author: koalamama
 categories: [ parent, 'Going from 1 to 2' ]
 image: assets/images/7.jpg
