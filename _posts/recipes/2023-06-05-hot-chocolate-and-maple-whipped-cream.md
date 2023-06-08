@@ -7,7 +7,7 @@ image: assets/images/hot-chocolate.jpg
 tags: [featured]
 date: 2023-06-07
 published: true
-excerpt: "Mama's homemade hot chocolate with maple whipped cream using high-quality ingredients."
+excerpt: "Mama's delicious homemade hot chocolate with maple whipped cream using high-quality ingredients."
 ---
 
 
