@@ -19,4 +19,4 @@ excerpt: "Potty training a toddler in 5 simple steps."
 	3. **Make the flush fun:** My daughter loves to bring her pee and dump it in the toilet, when she does i praise it when she doesn't then we do it and we still try to get her involved in the flush. For the big flush  we wave to the pee and/or poop as we flush. 
 
 
-If you have questions on why I did anything or want to map out your potty training journey, feel free to message me. <u>I am not a doctor.</u> I'm happy to share the mama knowledge.
+If you have questions on why I did anything or want to map out your potty training journey, feel free to message me. I'm happy to share the mama knowledge. <u>I am not a doctor.</u> 
