@@ -26,7 +26,6 @@ This is a healthy-ish cookie so it is going to be dense and not super sweet. The
 - 2 eggs (room temperature)
 - 1 teaspoon vanilla
 - 1½ cups all purpose flour
-- ¼ cup cocoa powder
 - 1 teaspoon baking soda
 - 2 teaspoons cinnamon
 - ½ teaspoon salt
@@ -42,7 +41,7 @@ This is a healthy-ish cookie so it is going to be dense and not super sweet. The
 1. Preheat oven to 350 degrees Fahrenheit.
 2. Line cookie sheet with parchment paper.
 3. In a small bowl, combine ground flax seed and water. Set aside.
-4. In a medium bowl, sift 1½ cups all purpose flour, ¼ cup cocoa powder, 1 teaspoon baking soda, 2 teaspoons cinnamon, ½ teaspoon salt. Mix all together. Add brewers yeast to dry mixture, if desired.
+4. In a medium bowl, sift 1½ cups all purpose flour, 1 teaspoon baking soda, 2 teaspoons cinnamon, ½ teaspoon salt. Mix all together. Add brewers yeast to dry mixture, if desired.
 5. In a large bowl, combine ½ cup coconut oil, ¼ cup maple syrup, 2 eggs, and 1 teaspoon vanilla.
 6. Add dry mix to wet mixture. Once combined, fold flax seed and water into dough.
 7. Stir in oats and either raisins or chocolate chips, as desired.
