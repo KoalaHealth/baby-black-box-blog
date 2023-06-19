@@ -5,7 +5,7 @@ author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/potty-outside.jpg
 published: true
-date: 2023-06-23
+date: 2023-06-16
 excerpt: "That's a lot of pee..."
 ---
 
