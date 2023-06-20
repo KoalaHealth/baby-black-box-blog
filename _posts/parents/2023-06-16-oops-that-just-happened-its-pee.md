@@ -4,6 +4,7 @@ title:  "Oops That Just Happened...It's Raining Pee"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/potty-outside.jpg
+image_position: center
 published: true
 date: 2023-06-16
 excerpt: "That's a lot of pee..."
