@@ -147,7 +147,7 @@ description: "Baby Black Box - An honest insight for new and veteran parents."
                 </a>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-position:center;background-image:url({{site.baseurl}}/{{ post.image }});" onclick="window.location.href={{site.baseurl}}{{post.url}}"></div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-position: {% if post.image_position and post.image_position != "" and post.image_position != nil %}{{ post.image_position }}{% else %}center{% endif %};background-image:url({{site.baseurl}}/{{ post.image }});" onclick="window.location.href={{site.baseurl}}{{post.url}}"></div>
         </div>
     </div>
 </div> 
