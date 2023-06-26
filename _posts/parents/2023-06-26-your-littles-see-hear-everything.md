@@ -6,7 +6,7 @@ categories: [ "Only Parents", "parent" ]
 image: assets/images/hands-holding-grapes.jpg
 published: true
 date: 2023-06-26
-excerpt: "That's a lot of poo and pee..."
+excerpt: "Everyone's bodies change with age. Mothers are beautiful postpartum."
 ---
 
 So, I have another *mom fail* to share with you.
