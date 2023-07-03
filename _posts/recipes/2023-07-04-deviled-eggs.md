@@ -5,7 +5,7 @@ author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/deviled-eggs.jpg
 tags: [featured]
-date: 2023-07-02
+date: 2023-07-04
 published: true
 excerpt: "Nothing like a good deviled egg for a celebration!"
 ---

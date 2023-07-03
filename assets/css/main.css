@@ -72,6 +72,12 @@ body {
   text-align: left;
   background-color: #fff; }
 
+html,body{
+  /* This prevents scrolling on touch devices when focusing on a text field. */
+  -webkit-overflow-scrolling : touch !important; 
+  overflow: auto !important;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
