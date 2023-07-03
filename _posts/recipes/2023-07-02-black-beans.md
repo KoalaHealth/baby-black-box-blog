@@ -12,8 +12,8 @@ excerpt: "Perfectly simple black beans for any occasion!"
 
 ### Ingredients
 
-2 cups black beans 
-6 cups vegetable or chicken stock 
+- 2 cups black beans 
+- 6 cups vegetable or chicken stock 
 
 
 ### Directions

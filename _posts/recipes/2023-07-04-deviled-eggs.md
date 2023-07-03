@@ -14,10 +14,10 @@ Deviled eggs for pickle lovers.  Must love pickles!
 
 ### Ingredients
 
-8 hard boiled eggs 
-½ tsp mustard 
-¼ cup finely diced pickles 
-4-6 tsp pickle juice (thinning agent) 
+- 8 hard boiled eggs 
+- ½ tsp mustard 
+- ¼ cup finely diced pickles 
+- 4-6 tsp pickle juice (thinning agent) 
 
 
 ### Directions
