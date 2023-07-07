@@ -9,7 +9,7 @@ date: 2023-07-07
 excerpt: "Everyone seems to have an opinion on what a parent needs.  Here is my experience."
 ---
 
-As a first time mom I got lost in the millions of items that are pushed to new breast-feeding moms. I had no idea what I needed when I went to the store. I would get overwhelmed by all these items that were pushed as “MUST HAVES”. As a mom that was stepping away from my career, finances are tight, so I wanted to be as conservative as possible. To be honest, I still fell into the trap of buying things that I really didn’t use or need.
+As a first time mom I got lost in the millions of items that are pushed to new breast-feeding moms. I had no idea what I needed when I went to the store. I would get overwhelmed by all these items that were pushed as "MUST HAVES." As a mom that was stepping away from my career, finances are tight, so I wanted to be as conservative as possible. To be honest, I still fell into the trap of buying things that I really didn’t use or need.
 
 Now that I am a mom of two, here is my list of things that truly helped as a breast-feeding mom. There are few items on here that you can simply get by the first few weeks or days with sample items. If you truly need it after that then you can buy more. Thanks to Amazon (linked below) you can get it in just a few days delivered directly to your house or in most stores like Target or Walmart.
 
