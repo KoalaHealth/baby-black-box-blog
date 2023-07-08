@@ -9,7 +9,7 @@ date: 2023-07-07
 excerpt: "Gardening is in my roots and is healing for me."
 ---
 
-I'm a farmer to my roots. I come from a multi-generational farming family, who taught me to appreciate the beauty in the "common,"”" like dirt and plants. Also, my family opened my eyes to the lessons a garden can teach about caring and graciously receiving. 
+I'm a farmer to my roots. I come from a multi-generational farming family, who taught me to appreciate the beauty in the "common," like dirt and plants. Also, my family opened my eyes to the lessons a garden can teach about caring and graciously receiving. 
 
 Now, that I am a mama, I try to take the same opportunity they did to teach the next generation how wonderful it is to grow our own food. I live in an apartment with a tiny patio, but I don't let that stop me. I am on my way to master the art of growing plants in pots. I choose plants that can be eaten as different plants mature, all the while teaching my littles small lessons along the way.
 
