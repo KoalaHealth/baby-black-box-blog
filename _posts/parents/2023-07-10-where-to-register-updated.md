@@ -18,30 +18,6 @@ I always tried baby soaps and shampoos on myself first, then my littles, looking
 To stay on the topic of free samples, all you often have to do is pay for shipping and handling, and they will ship out the samples to you. The list below are the ones I used and I paid NOTHING for them! It took me about 20 minutes to set all of them up, and the samples came rolling in.
 
 
-**Registries:**
-- Walmart - this was the best sample box I received for my second. It is easy to set up and is sent directly to your house. 
-- Target -  Target's was a pain in the you -know-what to receive. But, it has some of the best coupons that will be loaded directly to your app. It also has samples from brands like *hello bello* that I do not receive elsewhere. 
-- Amazon - Amazon's is one of the easiest to receive, but varies a lot. In 2020, it was one of the best sample boxes, but in 2022, it was the worst. 
-
-**Freebies without a registry:**
-- Enfamil - they send two cans of formula and continue to send coupons as your little gets bigger. 
-- Similac - will send coupons throughout your child's first year of life. They say they send samples but I never received any for either of my children.
-- Huggies & Pampers - both of these companies have apps that you can use to scan in your diaper purchases to earn rewards (coupons and freebies)  
-
-**Honorary mention:**
-- Dolly Parton imagination library - it is not in many areas, but it 100% is a wonderful organization to help all children with literacy. This organization is doing big things, and I highly recommend checking to see if your area qualifies you for a free monthly book for your little. 
-
-Why did I sign up for formula companies when I planned to breastfeed? The truth is very few things in my life have gone as planned, so I wanted a backup plan. I am SO thankful I planned for backup formula. Both of my kids lost too much weight the first few days and needed more than what I could nurse/pump, so these backup cans came in handy. 
-
-**Benefits of these companies in addition to the free samples:**
-- Target - just create a baby registry, make it public and go to any Target's customer service to ask (they are often out) for a baby registry reward. You can also try to get it online through the registry when you make an order over $30 (you just pay $0.05). With both kids, they didn’t scan my phone in-store, so I was able to get one in-store and online. 
-You also will get a coupon for 15% off. It can be used once in store and once online for items on your registry. Because I have winter babies, I put loads of holiday gifts, clothes for all of us and some food. The discount worked for almost everything. 
-
-- Amazon - create a registry then once someone (could be you) purchases $30 or more then you can go in and ship the welcome box to yourself for free. My husband and I both have Amazon accounts and we both could do this. 
-
-- Walmart - create a registry then you have to go to a special Walmart baby box site and enter your information including the url from your registry. Then it will be shipped to you. No purchase required. I sent the Walmart baby box to a few friends and neighbors addresses to really optimize on the samples. You could consider sending it to your parents address then have them bring it or ship the content to you. 
-
-
 ### Target - (<a href="https://www.target.com/gift-registry/create-baby-registry">Target Registry</a>)
 
 1. Create an online baby registry and make it public. 
@@ -70,3 +46,9 @@ You also will get a coupon for 15% off. It can be used once in store and once on
 #### Enfamil - (<a href="https://www.enfamil.com/baby-formula-coupons-samples/?prc=GS045&utm_medium=paid_search&utm_source=google&utm_campaign=Enfamil+Customer+Beginnings&gad=1&gclid=EAIaIQobChMI5veM2IP7_wIVpBCtBh3XWAApEAAYASAAEgLyUvD_BwE">Enfamil Rewards</a>) I highly recommend signing up for the Enfamil reward program. Once you sign up, they will send you two small cans of formula and coupons that can be used at your local store. 
 
 #### Huggies & Pampers Diapers - Both of these diaper companies have reward programs on their mobile apps that you use to scan in your diaper purchases to earn coupons and freebies.
+
+Why did I sign up for formula companies when I planned to breastfeed? The truth is very few things in my life have gone as planned, so I wanted a backup plan. I am SO thankful I planned for backup formula. Both of my kids lost too much weight the first few days and needed more than what I could nurse/pump, so these backup cans came in handy. 
+
+
+### Honorary mention:
+- Dolly Parton imagination library - it is not in many areas, but it 100% is a wonderful organization to help all children with literacy. This organization is doing big things, and I highly recommend checking to see if your area qualifies you for a free monthly book for your little. 

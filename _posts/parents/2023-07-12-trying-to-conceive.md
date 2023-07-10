@@ -4,12 +4,12 @@ title:  "Trying to Conceive 1st & 2nd Child"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/baby-picking-tomatoes.jpg
-published: false
+published: true
 date: 2023-07-12
 excerpt: "Gardening is in my roots and is healing for me."
 ---
 
-My whole life I have known my family has had a hard time carrying pregnancies to term. I have always been honest with myself that my journey to motherhood might look very different than most. Knowing this I did things to try and prepare myself for this journey.  I have broken all of my preparations down into 4 sections. 
+My whole life I have known my family has had a hard time carrying pregnancies to term. I have always been honest with myself that my journey to motherhood might look very different than most. Knowing this, I did things to try to prepare myself for this personal journey. This is how I organized all of my preparations down into 4 sections. 
 
 1. **Get healthy** - I have always been a workaholic, and for many years was on the C diet (Coffee, Carrots and Carbs). Looking to start the next chapter of my life I knew going to the gym was not always going to be  in the cards for me. For the few years before trying to get pregnant I made sure physical activity was something that was in my day to day life. I would go on quick walks during my lunch break, I would take the stairs,  I would stop by the gym or rock climbing wall on my way home from work. But most of all i would make sure i would move on the weekends, between hiking, walking, surfing, doing some at home body weight workouts i constantly tried to do  things to get by blood flowing.
 
