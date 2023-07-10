@@ -15,8 +15,14 @@ To get the best, you have to try the best, so I dove into the world of samples. 
 
 I always tried baby soaps and shampoos on myself first, then my littles, looking out for any signs of allergies or sensitivities. The samples sometimes were better (in cleaning, smell, or ingredients) than the other blog recommended products! I will share my findings as I have time, because I tried many products.
 
+
+<img src="{{site.baseurl}}/assets/images/zoomed-cubby-full-of-baby-product-samples.jpg" alt="All of these were free baby product samples!" class="bottom-align mb-0" /><br /><span class="small">All of these were free baby product samples!</span>
+
 To stay on the topic of free samples, all you often have to do is pay for shipping and handling, and they will ship out the samples to you. The list below are the ones I used and I paid NOTHING for them! It took me about 20 minutes to set all of them up, and the samples came rolling in.
 
+<img src="{{site.baseurl}}/assets/images/zoomed-cubby-full-of-baby-product-samples.jpg" alt="The baby lotion samples helped me find our favorite brand!" class="bottom-align mb-0" /><br /><span class="small">The baby lotion samples helped me find our favorite brand!</span>
+
+<img src="{{site.baseurl}}/assets/images/top-cubby-full-of-baby-product-samples.jpg" alt="These samples ended up being excellent backups!" class="bottom-align mb-0" /><br /><span class="small">These samples ended up being excellent backups!</span>
 
 ### Target - (<a href="https://www.target.com/gift-registry/create-baby-registry">Target Registry</a>)
 
@@ -51,4 +57,4 @@ Why did I sign up for formula companies when I planned to breastfeed? The truth 
 
 
 ### Honorary mention:
-- Dolly Parton imagination library - it is not in many areas, but it 100% is a wonderful organization to help all children with literacy. This organization is doing big things, and I highly recommend checking to see if your area qualifies you for a free monthly book for your little. 
+Dolly Parton imagination library - it is not in many areas, but it 100% is a wonderful organization to help all children with literacy. This organization is doing big things, and I highly recommend checking to see if your area qualifies you for a free monthly book for your little. 
