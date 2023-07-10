@@ -9,7 +9,9 @@ date: 2020-09-22
 excerpt: 'Parenting is hard. Many companies want to help. Get samples and discounts here.'
 ---
 
+**This is getting stale!  <a href="{{site.baseurl}}/where-to-register-updated/" alt="Link to the updated registry post.">Click here for the updated post!</a>**
 
+<br />
 ### Target - (<a href="https://www.target.com/gift-registry/create-baby-registry">Target Registry</a>)
 
 1. Create an online baby registry and make it public. 
