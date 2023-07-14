@@ -9,7 +9,7 @@ date: 2023-07-14
 excerpt: "Pregnancy is like a marathon race - you need to prepare before and thoughtfully run for the long road."
 ---
 
-Carrying a baby is a natural thing. Like magic, most of the time your body knows what to do on its own. For example, it knows to release hormones like *relaxin* to relax your muscles, joints, and ligments during pregnancy. But, as the *host* of another human, I found it important to try and help my body through the process. Thank you doctor google. I was terrified of the horror stories I had read about online from pregnant and postpartum mothers. So, as part of my prenatal process, I tried to focus on 7 factors (I know more than my normal list but they all have a key point, I promise)  to be totally transparent. I failed at most of these sections throughout parts of my pregnancy journey, but I never gave up - that is key! 
+Carrying a baby is natural. Like magic, most of the time your body knows what to do on its own. For example, it knows to release hormones like *relaxin* to relax your muscles, joints, and ligments during pregnancy. But, as the *host* of another human, I found it important to try and help my body through the process. Thank you doctor google. I was terrified of the horror stories I had read about online from pregnant and postpartum mothers. So, as part of my prenatal process, I tried to focus on 7 factors (I know more than my normal list but they all have a key point, I promise)  to be totally transparent. I failed at most of these sections throughout parts of my pregnancy journey, but I never gave up - that is key! 
 
 
 1. **Supplements** -  Find a prenatal and calcium supplement you like and your body is okay with. Start taking them right away and stay on them through the pregnancy. 
