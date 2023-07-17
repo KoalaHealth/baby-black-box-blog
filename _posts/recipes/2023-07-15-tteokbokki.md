@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  'Simple Tteokbokki ("duck bo key") 떡볶이 (Korean Spicy Rice Cakes)'
+title:  'Simple Tteokbokki (<i>duck bo key</i>) 떡볶이 (Korean Spicy Rice Cakes)'
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/tteokbokki-on-fork.jpg

@@ -4,6 +4,7 @@ title:  "Where to Register and Why. Save Money and Embrace Free Samples."
 author: koalamama
 categories: [ "first time parent", "parent" ]
 image: assets/images/baby-registries.png
+tags: [featured]
 published: true
 date: 2023-07-10
 excerpt: 'Parenting is hard. Many companies want to help. Get samples and discounts here.'
@@ -37,7 +38,7 @@ To stay on the topic of free samples, all you often have to do is pay for shippi
 1. Create a registry then once someone (could be you) purchases $30 or more you can go in and ship the welcome box to yourself for free.
     - My husband and I both have Amazon accounts and we both could do this. 
 
-#### **Benefits**: You received a 15% discount that can be used twice on select leftover baby registry items. The discount becomes available before your due date, so you can stock up on baby items before your bundle arrives. You can also use the second discount after your little one has arrived. There are many more benefits not listed but you do need to read the fine print.  
+#### **Benefits**: You receive a 15% discount that can be used twice on select leftover baby registry items. The discount becomes available before your due date, so you can stock up on baby items before your bundle arrives. You can also use the second discount after your little one has arrived. There are many more benefits not listed but you do need to read the fine print.  
 
 ### Walmart - (<a href="https://www.walmart.com/cp/baby-registry/1229485?&adid=22222222220255635295&wmlspartner=wmtlabs&wl0=b&wl1=g&wl2=c&wl3=282545927188&wl4=kwd-25125568063&wl5=1013964&wl6=&wl7=&wl8=&veh=sem&gclid=EAIaIQobChMIrr2Xs4H7_wIV9RWtBh33qgstEAAYASAAEgI1AfD_BwE&gclsrc=aw.ds">Walmart Registry</a>)
 1. Create a registry.
@@ -47,11 +48,14 @@ To stay on the topic of free samples, all you often have to do is pay for shippi
 
 ### Freebies without a Registry
 
-#### Similac - (<a href="https://www.similac.com/rewards.html">Similac Rewards</a>) If you sign up for Similac's reward program they will send you coupons that can be used at your local store. 
+#### Similac - (<a href="https://www.similac.com/rewards.html">Similac Rewards</a>)
+If you sign up for Similac's reward program they will send you coupons that can be used at your local store. 
 
-#### Enfamil - (<a href="https://www.enfamil.com/baby-formula-coupons-samples/?prc=GS045&utm_medium=paid_search&utm_source=google&utm_campaign=Enfamil+Customer+Beginnings&gad=1&gclid=EAIaIQobChMI5veM2IP7_wIVpBCtBh3XWAApEAAYASAAEgLyUvD_BwE">Enfamil Rewards</a>) I highly recommend signing up for the Enfamil reward program. Once you sign up, they will send you two small cans of formula and coupons that can be used at your local store. 
+#### Enfamil - (<a href="https://www.enfamil.com/baby-formula-coupons-samples/?prc=GS045&utm_medium=paid_search&utm_source=google&utm_campaign=Enfamil+Customer+Beginnings&gad=1&gclid=EAIaIQobChMI5veM2IP7_wIVpBCtBh3XWAApEAAYASAAEgLyUvD_BwE">Enfamil Rewards</a>)
+I highly recommend signing up for the Enfamil reward program. Once you sign up, they will send you two small cans of formula and coupons that can be used at your local store. 
 
-#### Huggies & Pampers Diapers - Both of these diaper companies have reward programs on their mobile apps that you use to scan in your diaper purchases to earn coupons and freebies.
+#### Huggies & Pampers Diapers
+Both of these diaper companies have reward programs on their mobile apps that you use to scan in your diaper purchases to earn coupons and freebies.
 
 Why did I sign up for formula companies when I planned to breastfeed? The truth is very few things in my life have gone as planned, so I wanted a backup plan. I am SO thankful I planned for backup formula. Both of my kids lost too much weight the first few days and needed more than what I could nurse/pump, so these backup cans came in handy. 
 

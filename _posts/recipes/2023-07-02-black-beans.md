@@ -4,7 +4,7 @@ title:  "Crockpot Black Beans"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
 image: assets/images/black-beans.jpg
-tags: [featured]
+tags: []
 date: 2023-07-02
 published: true
 excerpt: "Perfectly simple black beans for any occasion!"
