@@ -3,11 +3,11 @@ layout: recipe
 title:  "Homemade Bagels"
 author: koalamama
 categories: [ recipe, "authentic cooking" ]
-image: assets/videos/bagels.jpg
+image: assets/images/bagels.jpg
 tags: []
 date: 2023-07-17
 published: true
-excerpt: "Homemade Bagels made with known ingredients - great for the entire family!"
+excerpt: 'Homemade Bagels made with "known" ingredients - great for the entire family!'
 ---
 
 As a parent of a farming family, I want my family to enjoy low-processed foods with minimal salt and sugar. This is my homemade bagel recipe. Made with common, "known" ingredients - it's great for the entire family!
