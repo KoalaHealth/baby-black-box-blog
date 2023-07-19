@@ -14,13 +14,13 @@ I often see myself as a frugal stay-at-home mom, but I do splurge when feeding m
 As a special/healthy treat for my little, I let her get water, which makes her feel included in the family ritual. But, all the plastic waste for a little water? Distasteful.
 
 So, my family washes and keeps the cups for different activities and play.  Whether for:
-sorting pom poms
-playing at our water table 
-watering the plants 
-harvesting tomatoes 
-planting jalapeños (poke some holes and let things grow)
-crafting
-or reusing them for a house brewed cup on the go. 
+- sorting pom poms
+- playing at our water table 
+- watering the plants 
+- harvesting tomatoes 
+- planting jalapeños (poke some holes and let things grow)
+- crafting
+- or reusing them for a house brewed cup on the go. 
 
 Our family embraces reuse ♻️!
 
