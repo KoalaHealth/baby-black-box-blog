@@ -9,15 +9,17 @@ date: 2023-07-28
 excerpt: 'Dogs can be wonderful for children, but they need your love, energy, and time, too.'
 ---
 
+
 My husband and I are dog-people. We had dogs for as long as we can remember. We always wanted our children to have their own "fuzzy, lovable partners in crime." It's a recurring conversation in our family that recently came up again. Here is our current list of pros and cons: 
 
 
-We are considering many breeds but many share some requirements/specific needs : 
+We are considering many "working dog" breeds but many share some requirements/specific needs : 
 
-- They need room to get there unless energy out. They must be exercised/run.
-- They are very smart, so must be worked.
-- Very dominant dog, so a strong alpha is required or they will think they are the alpha, which also makes them fiercely loyal.
-- Must be regularly socialized, as they are very protective. 
+- They need room to get their energy out.
+- They must be exercised/run.
+- They are very smart, so they need special attention and stimulation.
+- Very dominant dog, so a strong alpha is required. Otherwise, they will think they are the alpha, which can be a risk for bites.
+- Must be regularly socialized, so their naturally protective instincts don't see other humans and dogs as threats. 
 
 **Pro:**
 - Great for the kids' health/immune system, it lessens the chance they will be allergic later in life. 
@@ -31,6 +33,6 @@ We are considering many breeds but many share some requirements/specific needs :
 - I am a stay-at-home mom with a 2 under 3. Between all the meltdowns, toys, yelling, winning, adding a barking, toy chewing puppy, peeing/pooping (children and puppy) to the mix just seem overwhelming at the moment.
 
 
-After a pretty quick conversation, the puppy has been punted for another year. My husband and I have always been in agreement on the breed of dog we want. We want the dog to have a good life. We currently feel the life we have would not be fair to the puppy/dog. Personally I feel like most of the responsibility will fall on me as I am home (100% okay with that). Right now with my youngest being so small, I feel like they still need my full attention. I am hoping once my oldest is a bit older and my little can walk and get around more on his own this will allow me the ability to comfortable have room to train the dog. 
+After a pretty quick conversation, the puppy has been punted for another year. My husband and I have always been in agreement on the breed of dog we want. We want the dog to have a good life. We currently feel the life we have would not be fair to the puppy/dog. Personally I feel like most of the responsibility will fall on me as I am home (100% okay with that). Right now with my youngest being so small, I feel like they still need my full attention. I am hoping once my kids are a bit older, this will free up some of my time for dog training.
 
-What do you think? should we move up the timeline or do you think we are making the right choice to re evaluate in another year?
+What do you think? Should we move up the timeline or should we wait?
