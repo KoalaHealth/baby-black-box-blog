@@ -22,6 +22,21 @@ This pizza dough base is a family favorite with known ingredients.  No weird pre
 - 5 cups (600 g) bread flour *(bread flour has great, extra protein.  Also, the rise and texture is a bit different with all-purpose, but it can be used.)*
 - Additional bread flour for kneading
 
+{% include amazon-purchase-item.html title='Gold Medal Premium Quality Bread Flour - 5 lbs' purchase_url='https://www.amazon.com/Gold-Medal-Better-Bread-Flour/dp/B000SSW200?crid=2BKUF1HZEITQH&keywords=bread+flour&qid=1691011497&sprefix=bread+flou%2Caps%2C225&sr=8-2&linkCode=ll1&tag=koalaco-20&linkId=78823c80939d1acbe5e23600894a62f8&language=en_US&ref_=as_li_ss_tl' image_url='https://m.media-amazon.com/images/I/81XXsyDoM7L._SX679_.jpg' price='$5.38' %}
+
+{% include amazon-purchase-item.html 
+title='King Arthur Certified Gluten-Free, Non-GMO, Kosher Bread Flour - 3 lbs' 
+purchase_url='https://www.amazon.com/King-Arthur-Flour-Measure-Gluten/dp/B01JJ9H1Q8?pd_rd_w=1Bnbs&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=QS11ETF8N88BAZW5JC4C&pd_rd_wg=YPJVU&pd_rd_r=61cca3f1-ad34-4902-b8ef-13d79c18cd79&pd_rd_i=B01JJ9H1Q8&psc=1&linkCode=ll1&tag=koalaco-20&linkId=d63fe2b431b71e1a1bdfa450128331bb&language=en_US&ref_=as_li_ss_tl' 
+image_url='https://m.media-amazon.com/images/I/61PVl9OMPPL._SX569_.jpg' 
+price='$8.62' %}
+
+{% include amazon-purchase-item.html 
+title='King Arthur Bread Flour - 5 lbs' 
+purchase_url='https://www.amazon.com/King-Arthur-Flour-Bread-5-Pound/dp/B004SI9DJO?crid=2BKUF1HZEITQH&keywords=bread+flour&qid=1691011497&sprefix=bread+flou%2Caps%2C225&sr=8-4&linkCode=ll1&tag=koalaco-20&linkId=e36d0067b4562fb744021e49c35b8d68&language=en_US&ref_=as_li_ss_tl' 
+image_url='https://m.media-amazon.com/images/I/91Nmk0usB1L._SY679_.jpg' 
+price='$17.70' %}
+
+
 ### Dough Directions
 
 <h5 class="mb-1">Step 1</h5>
