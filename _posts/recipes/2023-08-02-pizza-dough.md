@@ -12,7 +12,7 @@ excerpt: "Versatile and easy pizza dough base."
 
 This pizza dough base is a family favorite with known ingredients.  No weird preservatives or unnecessary chemicals.  Though it's great for pizza, it can be used for garlic knots, cinnamon pull-apart bread, flat bread, and more!
 
-### Ingredients
+### Ingredients (Makes 4 Pizzas)
 
 - 2 1/4 cups (530 mL) warm water
 - 1 tbsp (12 g) sugar
