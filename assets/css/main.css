@@ -414,6 +414,41 @@ mark,
   max-width: 100%;
   height: auto; }
 
+div img.underlying-image  {
+  margin-bottom: 0;
+  position: relative;
+  vertical-align: bottom;
+  z-index: 1
+}
+
+div img.available-at-amazon-overlay {
+  margin-bottom: 0;
+  position: relative;
+  left: -80px;
+  bottom: 8px;
+  vertical-align: bottom;
+  z-index: 2;
+}
+@media (max-width: 576px) {
+  .unimportant {
+    display: none;
+  }
+}
+
+div div.ib-caption {
+  box-sizing: border-box;
+  display: inline-block;
+  height: 320px;
+  width: auto;
+  max-width: 49%;
+  min-width: 0;
+  overflow-y: scroll;
+  overflow-wrap: break-all;
+  padding: 16px;
+  position: relative;
+  vertical-align: top;
+}
+
 .figure {
   display: inline-block; }
 
@@ -5934,6 +5969,9 @@ button.bg-lightblue:focus {
   width: 75% !important; }
 
 .w-100 {
+  width: 100% !important; }
+
+.w-99 {
   width: 100% !important; }
 
 .w-auto {

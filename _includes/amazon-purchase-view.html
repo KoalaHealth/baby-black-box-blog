@@ -1,0 +1,13 @@
+<div class="d-inline-block mb-3 align-top">
+    <a href="{{ include.purchase_url }}" target="_blank" style="font-size: 16px;">
+        <div class="d-inline-block" style="max-width: 49%;">
+            <img class="underlying-image" src="{% if include.local_image_url %}{{site.baseurl}}/assets/images/{{ include.local_image_url }}{% elsif include.image_url %}{{ include.image_url }}{% endif %}" alt="{{ include.title }}" height="320px" width="auto" />
+            <!-- <img class="available-at-amazon-overlay" src="{{site.baseurl}}/assets/images/promos/available-at-amazon.png" alt="Available at Amazon.com" height="32px" width="auto" /> -->
+        </div
+        ><div class="d-inline-block bg-lightblue ib-caption p-4">
+            <!-- <img src="{{site.baseurl}}/assets/images/promos/available-at-amazon.png" alt="Available at Amazon.com" height="32px" width="auto" /> -->
+            <img class="mb-3 unimportant" src="{{site.baseurl}}/assets/images/baby-black-box.png" alt="Baby Black Box" height="40px" width="auto" />
+            <p class="h3 mt-auto mb-auto">{{ include.caption }}</p>
+        </div
+    ></a>
+</div>
