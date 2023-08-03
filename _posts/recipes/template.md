@@ -5,7 +5,6 @@ author: koalamama
 categories: [ recipe ]
 image: assets/images/waffle.jpg
 tags: [featured]
-date: 2023-07-07
 published: false
 excerpt: "Quick and easy waffles to make and cleanup."
 ---
