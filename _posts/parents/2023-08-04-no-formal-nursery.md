@@ -3,7 +3,7 @@ layout: post
 title:  "No Nursery. No regret!"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
-image: assets/images/happy-puppy.jpg
+image: assets/images/nursery.jpg
 published: true
 excerpt: 'I did not do a formal nursery for either of my littles & I do not regret it!'
 ---
