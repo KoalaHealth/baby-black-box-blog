@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No Nursery. No regret!"
+title:  "No Nursery. No Regrets!"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/nursery.jpg
