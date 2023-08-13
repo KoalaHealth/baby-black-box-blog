@@ -4,6 +4,7 @@ title:  "Oops That Just Happened - The Puppy Jumped Into the Trashcan."
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/puppies-with-puppy-toy.jpg
+image_position: bottom
 published: true
 excerpt: "Think twice before getting that toy. It could be a honeypot!"
 ---
