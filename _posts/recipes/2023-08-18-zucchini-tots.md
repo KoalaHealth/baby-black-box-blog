@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Zucchini Tots"
-author: flightrecorder
+author: koalamama
 categories: [ recipe ]
 image: assets/images/zuke-tots.jpg
 tags: []
