@@ -4,6 +4,7 @@ title:  "Photo Proof Mamas Exist!"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/child-and-mama-jogging.jpg
+image_position: bottom
 published: true
 excerpt: 'I wish mamas could get more photos with their children!'
 ---

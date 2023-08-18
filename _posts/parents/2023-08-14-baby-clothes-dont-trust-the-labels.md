@@ -16,6 +16,6 @@ Getting back to basics: clothes labels are not only misleading, but remember, th
 
 As an aside, many people feel the "old-school stigma" of re-wearing, previously enjoyed clothes, but I LOVE hand-me-downs! It's not that we don't have the extra funds to purchase new clothes, but I can exercise my sustainability practices and improve my "reduce-reuse-recycle." I was lucky enough to source a large amount of gently worn clothes for both of my children from veteran parents. I love that they are pre-stretched and pre-washed of factory chemicals. 
 
-For my son (second child), my husband and I have been able to sources about 95% of the clothes he wears & I learned a lot from my first-time mom mistakes.
+For my son (second child), my husband and I have been able to source about 95% of the clothes he wears & I learned a lot from my first-time mom mistakes.
  
 If I could tell my first-time moms about kids' clothes, I would say pull out the nice stuff early and don't hesitate to let them be worn! Enjoy the cute stuff with photos. Yes, it will likely get stains, but it just shows it was loved! 
