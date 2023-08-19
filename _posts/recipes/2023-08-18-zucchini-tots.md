@@ -20,6 +20,7 @@ This baked zucchini recipe can be on the table in 30 minutes (about 10 mins prep
 ### Ingredients (Makes 4 Pizzas)
 
 - 1 medium zucchini
+- 1 egg
 - 1/2 cup panko or bread crumbs
 - 1/4 cup all-purpose flour
 - 1/4 cup shredded cheddar cheese
@@ -39,12 +40,15 @@ Grate the zucchini. A standard box grater in the smallest size works well.
 Line a medium bowl with clean kitchen towel or cheese cloth, add grated zucchini, and squeeze out as much liquid as you can.  You can dispose of the liquid.
 
 <h5 class="mb-1">Step 4</h5>
-In a medium bowl, combine 1 cup grated dried zucchini and the dry ingredients (1/2 cup panko/bread crumbs, 1/4 cup flour, 1/4 shredded cheddar cheese, 1/2 tsp garlic powder, 1/2 tsp onion powder).  You can use a spatula to mix everything together, but clean hands are recommended though a bit messy.
+In a medium bowl, mix the egg in with the dried zucchini.
 
 <h5 class="mb-1">Step 5</h5>
-Using a tablespoon, portion out rounds of the zucchini mixture and shape into tot shapes.  Place on prepared baking sheet.  Repeat until sheet is full.
+Combine 1 cup grated dried zucchini and the dry ingredients (1/2 cup panko/bread crumbs, 1/4 cup flour, 1/4 shredded cheddar cheese, 1/2 tsp garlic powder, 1/2 tsp onion powder).  You can use a spatula to mix everything together, but clean hands are recommended though a bit messy.  If there is more than 1 cup of dried zucchini, either refrigerate for later or repeat the step.
 
 <h5 class="mb-1">Step 6</h5>
+Using a tablespoon, portion out rounds of the zucchini mixture and shape into tot shapes.  Place on prepared baking sheet.  Repeat until sheet is full.
+
+<h5 class="mb-1">Step 7</h5>
 Bake 16-18 minutes or until edges are golden brow and firm to the touch.  If cooking in an air fryer, line with parchment and bake at 400°F for 10 minutes.
 
 
