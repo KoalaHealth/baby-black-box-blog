@@ -17,7 +17,7 @@ It would be an understatement to say my husband is not a fan of zucchini, but as
 
 This baked zucchini recipe can be on the table in 30 minutes (about 10 mins prep + 20 mins cook) as I finish off a protein on the stove. Enjoy with your family!
 
-### Ingredients (Makes 4 Pizzas)
+### Ingredients
 
 - 1 medium zucchini
 - 1 egg
