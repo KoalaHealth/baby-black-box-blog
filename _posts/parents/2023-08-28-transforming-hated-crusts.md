@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oops That Just Happened - The Puppy Jumped Into the Trashcan."
+title:  "Transform Bread Crusts Into Wonderful Treats!"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/homemade-monkey-bread.jpg
