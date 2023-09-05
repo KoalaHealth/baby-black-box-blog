@@ -12,7 +12,7 @@ As we all get our creative chef hats back on for the crazy school season, I thou
 
 Here are two simple successes in our house.
 
-- **French toast muffins**
-- **Garlic croutons**
+- <a href="{{site.baseurl}}/french-toast-muffins/">French Toast Muffins</a>
+- <a href="{{site.baseurl}}/homemade-garlic-croutons/">Garlic Croutons</a>
 
 I will get these recipes written up soon for everyone. Stay tuned!
