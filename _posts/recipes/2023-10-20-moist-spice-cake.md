@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Moist Spice Cake"
+title:  "Delicious Moist Spice Cake"
 author: koalamama
 categories: [ recipe ]
 image: assets/images/child-with-spice-cake.jpeg
@@ -32,7 +32,7 @@ If you are a spice or moist cake lover, you'll love this authentic moist spice c
 - Optional: 1 tablespoon molasses
 
 
-### Optional Cream Cheese Frosting
+### Optional Ingredients for Cream Cheese Frosting
 - 8 oz full-fat, room temperature "brick" of cream cheese
 - 1/2 cup room temperature bar of unsalted butter
 - 3 cups confectionerss sugar - plus an additional 1/4 cup, if needed 
