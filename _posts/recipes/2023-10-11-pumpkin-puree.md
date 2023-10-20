@@ -3,7 +3,7 @@ layout: recipe
 title:  "One Ingredient Pumpkin Purée"
 author: koalamama
 categories: [ recipe ]
-image: assets/images/pumpkin-puree.jpg
+image: assets/images/pumpkin-puree.jpeg
 tags: []
 published: true
 excerpt: "You know what's better than pumpkin purée? Fresh, homemade, and simple pumpkin purée!"
@@ -13,7 +13,7 @@ Fresh purées are wonderful secret ingredients to delicious fall foods. This pur
 
 My family's favorite pumpkin purée recipes are pumpkin oat bars and pumpkin spice muffins!! Stay tuned for recipes!
 
-<img src="{{site.baseurl}}/assets/images/pumpkin.jpg" alt="Fresh pumpkin? Purée it!" class="bottom-align mb-0" /><br /><span class="small">Got a fresh pumpkin? Purée it!</span>
+<img src="{{site.baseurl}}/assets/images/pumpkin.jpeg" alt="Fresh pumpkin? Purée it!" class="bottom-align mb-0" /><br /><span class="small">Got a fresh pumpkin? Purée it!</span>
 
 
 ### Ingredients
