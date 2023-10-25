@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Travel with Me! Road Trip Snakcs with a Toddler and a 1 Year Old."
+title:  "Travel with Me! Road Trip Snacks with a Toddler and a 1 Year Old."
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/road-trip.jpeg
