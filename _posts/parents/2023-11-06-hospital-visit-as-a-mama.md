@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hospital Visit are a Nightmare as a Mama"
+title:  "Hospital Visits are a Nightmare as a Mama"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/mom-hiking-with-two-babies.jpg
