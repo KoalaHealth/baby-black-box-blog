@@ -3,7 +3,7 @@ layout: recipe
 title:  "Delicious, Homemade Flour Tortilla"
 author: koalamama
 categories: [ recipe ]
-image: assets/images/baby-with-flour-tortillajpg
+image: assets/images/baby-with-flour-tortilla.jpg
 tags: []
 published: true
 excerpt: "Make delicious, homemade tortillas for the entire family!"
