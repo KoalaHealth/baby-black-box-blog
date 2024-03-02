@@ -5,6 +5,7 @@ author: koalamama
 categories: [ "Only Parents", "parent" ]
 image: assets/images/kid-jumping-in-puddle.jpeg
 published: true
+image_position: bottom
 excerpt: "Let them jump in the puddle!"
 ---
 
