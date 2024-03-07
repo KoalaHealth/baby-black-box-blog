@@ -30,7 +30,7 @@ This recipe was probably my favorite recipe to test out. My husband LOVES bagels
 ### Directions
 
 <h5 class="mb-1">Step 1</h5>
-In a medium bowl add 1 cup raisins and hot water. set aside and let hot water cool to warm while reiterating the raisins (20-30 minutes). 
+In a medium bowl add 1 cup raisins and hot water. set aside and let hot water cool to warm while rehydrating the raisins (20-30 minutes). 
 
 <h5 class="mb-1">Step 2</h5>
 Add flour, cinnamon, yeast, salt, molasses, raisin & water, into a large bowl or stand mixer.
