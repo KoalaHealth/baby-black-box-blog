@@ -51,6 +51,15 @@ authors:
       twitter:        
       instagram:      
  
+# Baby Black Box's Collections
+collections:
+  - bbb # Stories and Advice Collection
+  - recipes # Recipes Collection
+  - roks # Raising Orthodox Kids Collection
+    output: true
+    permalink: /roks/:path/
+
+
 # Defaults
 defaults:
 
@@ -67,6 +76,14 @@ defaults:
       path: "_recipes"
     values:
       layout: recipe
+      author: Koala Mama
+      avatar: /assets/images/author.png
+
+  # only Raising Orthodox Kids posts
+  - scope:
+      path: "_rok"
+    values:
+      layout: rok
       author: Koala Mama
       avatar: /assets/images/author.png
 
