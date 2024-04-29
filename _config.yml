@@ -53,9 +53,11 @@ authors:
  
 # Baby Black Box's Collections
 collections:
-  - bbb # Stories and Advice Collection
-  - recipes # Recipes Collection
-  - roks # Raising Orthodox Kids Collection
+  bbb: # Stories and Advice Collection
+    output: true
+  recipes: # Recipes Collection
+    output: true
+  roks: # Raising Orthodox Kids
     output: true
     permalink: /roks/:path/
 

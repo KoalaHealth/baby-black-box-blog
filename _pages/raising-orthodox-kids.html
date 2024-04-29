@@ -8,30 +8,10 @@ permalink: "/roks"
     <div class="row justify-content-center">
       <div class="col-md-8">
         <h4 class="font-weight-bold title h6 text-uppercase mb-4">Raising Orthodox Kids</h4>
-          
-        {% assign roks = site.roks %}
-        {% assign pages_list = roks[1] %}
-        <h1 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{roks['moo'].title}}</span></h1>
-        <div>{{pages_list}}</div>
-        {% for collection in site.roks %}
-        <div>{{collection.title}}</div>
-        <h1 class="font-weight-bold spanborder text-capitalize"><span>ROKS</span></h1>
-        {% if collection contains 'moo' %}
-        <h1 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>ROKS</span></h1>
-            
-        {% assign pages_list = category[1] %}
-        {% for collection in pages_list %}
-        {% if collection.title != null %}
-          {% if group == null or group == collection.group %}
-         
-            {% include main-loop-card.html %}
-          {% endif %}
-        {% endif %}
+        {% for rok in site.roks %}
+          <a href="{{rok.url}}">{{ rok.title }}</a>
         {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-        {% endif %}
-        {% endfor %}
+
 
       </div>
         

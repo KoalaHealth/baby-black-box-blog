@@ -1,6 +1,7 @@
 ---
 layout: roks
 title:  "moo"
+name: "salkdjfl"
 author: koalamama
 categories: [ roks ]
 image: assets/images/baby-eating-maple-syrup-kettle-corn.jpg
