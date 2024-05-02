@@ -3,7 +3,7 @@ layout: recipe
 title:  "Easy Simple Sandwich Bread"
 author: koalamama
 categories: [ recipe ]
-image: assets/images/baby-eating-maple-syrup-kettle-corn.jpg
+image: assets/images/bread3.jpeg
 tags: []
 published: false
 excerpt: "Every family eats bread."
