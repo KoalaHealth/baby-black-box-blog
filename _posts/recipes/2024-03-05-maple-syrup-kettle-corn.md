@@ -9,7 +9,7 @@ published: true
 excerpt: "Who doesn't love homemade kettle corn?  But, have you tried maple syrup kettle corn?"
 ---
 
-I have loved kettle corn for as long as I can remember. As a kid, my mom had the "old-school popper" that you hand cranked over the stove. I remember when I would put too many kernels in the sides would pop open, shooting hot kettle corn across the kitchen. But, you don't need a vintage kettle corn maker, and they taste great!
+I have loved kettle corn for as long as I can remember. As a kid, my mom had the "old-school popper" that you hand cranked over the stove. I remember when I would put in too many kernels the sides would pop open, shooting hot kettle corn across the kitchen. But, you don't need a vintage kettle corn maker, and they taste great!
 
 <img src="{{site.baseurl}}/assets/images/child-eating-maple-syrup-kettle-corn.jpg" alt="Everybody loves kettle corn, including children!" class="bottom-align mb-0" /><br /><span class="small">Everybody loves kettle corn!</span>
 
