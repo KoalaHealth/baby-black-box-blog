@@ -16,6 +16,10 @@ My life has gone from being a hospitality professional to a scavenging squirrel.
 
 
 
-Let's talk potatoes. Three years ago I found myself with some forgotten potatoes in the pantry, eyes were just starting to form so i thought why not plant them and see what happens. As spring came around my daughter loved the potato hunt!  This has started our yearly potato planting in the summer and harvesting as the plants die. Each year we find new tricks and have a whole new experience. 
+Potatoes are little pirate chests - easily forgettable/lost and fun to hunt. 
 
-Potatoes have taught me sometimes its not about the harvest, but its about the joy it brings while dirt goes flying and the harvest is found. 
+Three years ago I found myself with some forgotten potatoes in the pantry. The *eyes* were just starting to form so I thought, "why not plant them and see what happens."
+
+As spring came around, my daughter loved the potato hunt! Now, every year we plant potatoes in the summer and harvest them as the plants wither. Each year, the kids forget we planted them and have a blast digging them up.
+
+It's not about the harvest but the joy it brings while dirt goes flying and the harvest is found. 
