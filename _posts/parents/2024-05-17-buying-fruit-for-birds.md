@@ -3,7 +3,7 @@ layout: post
 title:  "Buying Fruit for Bird Children"
 author: koalamama
 categories: [ "Only Parents", "parent" ]
-image: assets/images/kids-jumping-in-puddle.jpeg
+image: assets/images/bird-apple.jpg
 published: true
 excerpt: "My children are birds. I am a squirrel."
 ---
