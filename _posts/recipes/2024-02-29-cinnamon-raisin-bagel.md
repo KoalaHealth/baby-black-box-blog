@@ -72,7 +72,7 @@ Place bagels on a paper towel to cool while you boil the rest of the dough.
 Move bagels to lined baking tray.
 
 <h5 class="mb-1">Step 15</h5>
-Bake at 425°F for 18-20 minutes.
+Bake at 425°F for 15-18 minutes.
 
 <h5 class="mb-1">Step 16</h5>
 Let cool on tray.

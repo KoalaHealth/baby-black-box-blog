@@ -47,7 +47,7 @@ As a parent of a farming family, I want my family to enjoy low-processed foods w
 11. Place bagel shaped dough into boiling baking soda water and boil on each side for 45 seconds. 
 12. Place bagels on a paper towel to cool while you boil the rest of the dough.
 13. Move bagels to lined baking tray and top with your desired toppings.
-14. Bake at 425°F for 18-20 minutes.
+14. Bake at 425°F for 15-18 minutes.
 15. Let cool on tray.
 
 
