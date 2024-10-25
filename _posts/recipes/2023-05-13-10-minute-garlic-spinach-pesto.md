@@ -47,7 +47,7 @@ The ways I use the pesto:
 
 1. In a small dry skillet, toast walnuts over medium heat. Stir constantly to prevent burning for about 2 minutes.
 2. Remove nuts from heat and transfer into a bowl to cool.
-3. In a food processor, combine nuts, cheese and grated cheese. Process until finely ground (about 20 to 30 seconds).
+3. In a food processor, combine nuts, garlic, and grated cheese. Process until finely ground (about 20 to 30 seconds).
 4. Add spinach, lemon juice, and if desired, salt.
 5. Turn on food processor and slowly pour in olive oil. If the pesto is still too thick for your liking, add a little more oil.
 6. Serve with pasta, over chicken, as a spread, or any other food you want!
